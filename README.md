@@ -91,153 +91,33 @@ the following order.
 3. ABSTRACT.md
 4. CANONICAL_LANGUAGE.md
 
+---
+
+## Contents
+
 This Codex
 
 is organized
 
-into
-
-the following
-
-canonical sections.
-
-01_HISTORY
-
-Provides
+from
 
 the historical foundation
 
-of
-
-the constitutional civilization.
-
-02_TOPOGRAPHY
-
-Defines
-
-the symbolic geography
-
-of
-
-the constitutional world.
-
-03_SYMBOLS
-
-Defines
-
-the canonical symbols
-
-and
-
-their interpretive meaning.
-
-04_AGENTS
-
-Defines
-
-the principal
-
-constitutional actors
-
-within
-
-the constitutional civilization.
-
-05_CULTURE
-
-Illustrates
-
-the cultural expression
-
-of
-
-constitutional civilization.
-
-06_PHILOSOPHY
-
-Establishes
-
-the philosophical foundation
-
-of
-
-the Codex.
-
-07_CONSTITUTION
-
-Defines
-
-the constitutional principles
-
-and
-
-governing framework.
-
-08_COSMOS
-
-Illustrates
-
-the symbolic universe
-
-of
-
-constitutional civilization.
-
-09_FUTURE_WORLDS
-
-Explores
-
-possible constitutional civilizations
-
-through
-
-symbolic interpretation.
-
-10_EPICS
-
-Preserves
-
-the foundational narratives
-
-of
-
-the constitutional civilization.
-
-11_APPENDIX
-
-Provides
-
-constitutional appendices,
-
-historical references,
-
-and
-
-supporting constitutional materials.
-
-Subordinate
-
-constitutional frameworks
-
-may be established
-
-under
-
-this constitutional foundation,
-
-provided
-
-that
-
-they remain
-
-fully consistent
-
-with
-
-its
-
-constitutional principles.
+to
+
+its constitutional appendices.
+
+- **01_HISTORY** — The historical foundation.
+- **02_TOPOGRAPHY** — The symbolic topographical framework.
+- **03_SYMBOLS** — The symbolic framework.
+- **04_AGENTS** — The functional agent framework.
+- **05_CULTURE** — The cultural framework.
+- **06_PHILOSOPHY** — The philosophical foundation.
+- **07_CONSTITUTION** — The constitutional framework.
+- **08_COSMOS** — The symbolic universe.
+- **09_FUTURE_WORLDS** — Symbolic constitutional civilizations.
+- **10_EPICS** — The narrative framework.
+- **11_APPENDIX** — Constitutional appendices and safeguards.
 
 ---
 
