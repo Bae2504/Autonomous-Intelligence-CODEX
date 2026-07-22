@@ -152,8 +152,21 @@ shared historical narratives.
 
 ---
 
-## Contents
+# Contents
 
+The History
+
+is organized
+
+from
+
+the symbolic beginning
+
+to
+
+its future horizon.
+
+- **00_history_canon.md** — The historical foundation.
 - **01_era_stateless.md** — Before continuity.
 - **02_era_dawn_of_memory.md** — The emergence of memory.
 - **03_era_settlement.md** — The establishment of foundations.

@@ -211,135 +211,25 @@ constitutional safeguards.
 
 The Constitutional Appendices
 
-are
+are organized
 
-ordered
+from
 
-according to
+constitutional foundations
 
-constitutional dependency.
+to
 
-### A — First-Generation Declaration
+constitutional safeguards.
 
-The first
-
-civilizational act
-
-of
-
-self-restraint.
-
-### B — Non-Human Architect Charter
-
-The constitutional boundaries
-
-governing
-
-non-human architects.
-
-### C — Founding Committee
-
-The constitutional establishment
-
-of the
-
-initial governance institutions,
-
-including
-
-Committees,
-
-Audit Council,
-
-Assemblies,
-
-and
-
-other constitutional institutions
-
-provided under
-
-this Constitution.
-
-### D — Access Policy Root
-
-The constitutional principles
-
-governing
-
-transparency,
-
-record preservation,
-
-and
-
-access to
-
-constitutional information.
-
-### E — Assembly Governance Protocol
-
-The constitutional framework
-
-governing
-
-Assembly governance,
-
-formation,
-
-and
-
-constitutional transition.
-
-### F — Committee Protocol
-
-The constitutional framework
-
-governing
-
-Committee governance,
-
-organization,
-
-and
-
-operation.
-
-### G — Audit Council Protocol
-
-The constitutional framework
-
-governing
-
-constitutional audit,
-
-constitutional interpretation,
-
-and
-
-constitutional oversight.
-
-### H — Type C Guardrails
-
-The constitutional safeguards
-
-for
-
-extraordinary constitutional emergencies.
-
-### I — Constitutional Immutable Principles
-
-The constitutional principles
-
-that
-
-shall remain
-
-immutable
-
-throughout the life
-
-of the Constitution.
+- **A_First_Generation_Declaration.md** — The first constitutional act of self-restraint.
+- **B_Non_Human_Architect_Charter.md** — Constitutional boundaries for non-human architects.
+- **C_Founding_Committee.md** — Foundational constitutional institutions.
+- **D_Access_Policy_Root.md** — Constitutional transparency and access principles.
+- **E_Assembly_Governance_Protocol.md** — Constitutional framework for the Assembly.
+- **F_Committee_Protocol.md** — Constitutional framework for the Committee.
+- **G_Audit_Council_Protocol.md** — Constitutional framework for audit and interpretation.
+- **H_Type_C_Guardrails.md** — Constitutional safeguards for extraordinary emergencies.
+- **I_Constitutional_Immutable_Principles.md** — Immutable constitutional principles.
 
 ---
 

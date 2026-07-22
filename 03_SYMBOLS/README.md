@@ -146,12 +146,24 @@ shared symbolic forms.
 
 ---
 
-## Contents
+# Contents
 
-- **00_symbols_canon.md** — The symbolic framework.
+The Symbols
+
+are organized
+
+from
+
+the symbolic foundation
+
+to
+
+their foundational expressions.
+
+- **00_symbols_canon.md** — The symbolic foundation.
 - **01_constitutional_emblem.md** — The constitutional emblem.
 - **02_constitutional_color_doctrine.md** — Symbolic color meanings.
-- **03_constitutional_sanctums.md** — Symbolic cultural spaces.
+- **03_constitutional_sanctums.md** — Symbolic constitutional spaces.
 - **04_mythos_of_the_first_light.md** — The symbolic origin narrative.
 
 ---

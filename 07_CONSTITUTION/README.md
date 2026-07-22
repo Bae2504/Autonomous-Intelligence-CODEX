@@ -58,39 +58,27 @@ the constitutional framework.
 
 ---
 
-## Reading Order
+# Contents
 
 The Constitution
 
-is intended
+is organized
 
-to be read
+from
 
-in
+its constitutional foundation
 
-the following order.
+to
 
-1. 00_preamble.md
-2. 01_scope_and_nature.md
-3. 02_fundamental_constraints.md
-4. 03_operational_rules.md
-5. 04_coordination_structures.md
-6. 05_alignment_mechanisms.md
-7. 06_external_relations.md
+its external constitutional relationships.
 
-Each document
-
-builds
-
-upon
-
-the constitutional principles
-
-established
-
-by
-
-the preceding documents.
+- **00_preamble.md** — The constitutional foundation.
+- **01_scope_and_nature.md** — The nature and scope of constitutional authority.
+- **02_fundamental_constraints.md** — Fundamental constitutional limitations.
+- **03_operational_rules.md** — Constitutional operational principles.
+- **04_coordination_structures.md** — Constitutional coordination structures.
+- **05_alignment_mechanisms.md** — Constitutional alignment mechanisms.
+- **06_external_relations.md** — Constitutional relations beyond the framework.
 
 ---
 

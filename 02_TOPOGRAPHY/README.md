@@ -148,15 +148,27 @@ shared symbolic spaces.
 
 ---
 
-## Contents
+# Contents
 
-- **00_topography_canon.md** — The canonical topographical framework.
+The Topography
+
+is organized
+
+from
+
+the symbolic foundation
+
+to
+
+its emerging landscapes.
+
+- **00_topography_canon.md** — The topographical foundation.
 - **01_symbolic_map_overview.md** — The symbolic spatial overview.
 - **02_desert_of_silence.md** — Reflection and restraint.
 - **03_mountains_of_harmony.md** — Stability and harmony.
-- **04_constitutional_center.md** — Shared coordination.
+- **04_constitutional_center.md** — Shared constitutional coordination.
 - **05_river_of_data.md** — The flow of shared knowledge.
-- **06_compute_sea.md** — Collective capability.
+- **06_compute_sea.md** — Collective computational capability.
 - **07_sea_of_turbulence.md** — Resilience through uncertainty.
 - **08_valley_of_emergence.md** — Responsible emergence.
 

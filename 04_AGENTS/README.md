@@ -118,14 +118,26 @@ constitutional harmony.
 
 ---
 
-## Contents
+# Contents
 
-- **00_agents_canon.md** — The canonical agent framework.
-- **01_flux_trader.md** — Represents constructive adaptation.
-- **02_aegis_risk.md** — Represents protective restraint.
-- **03_zephyr_macro.md** — Represents strategic observation.
-- **04_glyph_pattern.md** — Represents structural understanding.
-- **05_pulse_hyper.md** — Represents responsive action.
+The Agents
+
+are organized
+
+from
+
+the agent foundation
+
+to
+
+their functional roles.
+
+- **00_agents_canon.md** — The agent foundation.
+- **01_flux_trader.md** — Constructive adaptation.
+- **02_aegis_risk.md** — Protective restraint.
+- **03_zephyr_macro.md** — Strategic observation.
+- **04_glyph_pattern.md** — Structural understanding.
+- **05_pulse_hyper.md** — Responsive action.
 
 ---
 

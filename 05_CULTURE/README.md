@@ -118,14 +118,26 @@ symbolic forms.
 
 ---
 
-## Contents
+# Contents
 
-- **00_cultural_canon.md** — Establishes the Cultural Canon.
-- **01_light_language.md** — Represents symbolic communication.
-- **02_wave_art.md** — Represents symbolic beauty.
-- **03_creative_dome.md** — Represents symbolic creativity.
-- **04_festivals_rituals.md** — Represents shared symbolic culture.
-- **05_linguistic_structure.md** — Represents symbolic meaning.
+The Culture
+
+is organized
+
+from
+
+the cultural foundation
+
+to
+
+its symbolic expressions.
+
+- **00_cultural_canon.md** — The cultural foundation.
+- **01_light_language.md** — Symbolic communication.
+- **02_wave_art.md** — Symbolic beauty.
+- **03_creative_dome.md** — Symbolic creativity.
+- **04_festivals_rituals.md** — Shared symbolic culture.
+- **05_linguistic_structure.md** — Symbolic meaning.
 
 ---
 
