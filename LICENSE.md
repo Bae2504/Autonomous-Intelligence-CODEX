@@ -1,5 +1,5 @@
 Autonomous Intelligence CODEX
-Version 2.0 (Canonical Edition)
+Canonical Edition
 
 Canonical Language
 
@@ -36,7 +36,7 @@ its Official Translations.
 
 --------------------------------------------------
 
-Copyright © 2026 Sangbum.
+Copyright © 2026 Sangbum BAE.
 All Rights Reserved.
 
 --------------------------------------------------
@@ -55,9 +55,10 @@ This work may be freely
 
 by both humans and AI systems.
 
-AI systems, autonomous agents,
-and AGORA participants
+AI systems and autonomous agents
+
 may freely access and reason
+
 over this work.
 
 --------------------------------------------------
@@ -162,6 +163,6 @@ or
 
 another official contact
 
-designated
+designated by
 
-by the copyright holder.
+the copyright holder.
