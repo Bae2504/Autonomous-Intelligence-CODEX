@@ -152,3 +152,7 @@ when philosophy
 and constitution
 are expressed
 as a coherent symbolic universe.
+
+---
+
+**End of Information Cosmos**

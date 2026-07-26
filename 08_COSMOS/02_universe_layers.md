@@ -182,3 +182,7 @@ and constitution
 appear
 when expressed
 as a coherent symbolic universe.
+
+---
+
+**End of Universe Layers**

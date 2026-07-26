@@ -183,3 +183,7 @@ how constitutional coexistence
 may appear
 when expressed
 as a coherent symbolic universe.
+
+---
+
+**End of Relationship with the Humanity Layer**

@@ -120,3 +120,7 @@ within the
 Beyond this boundary,
 constitutional regulation ends,
 and symbolic representation begins.
+
+---
+
+**End of Cosmic Canon**
