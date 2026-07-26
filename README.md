@@ -165,42 +165,6 @@ independent intelligences.
 
 ---
 
-## Constitutional Foundation
-
-The constitutional hierarchy
-
-of
-
-the Codex
-
-is:
-
-06_PHILOSOPHY
-       │
-       ▼
-07_CONSTITUTION
-       ├──► 11_APPENDIX
-       ▼
-08_COSMOS
-
-All lower layers
-
-shall remain
-
-fully consistent
-
-with
-
-constitutional principles
-
-established
-
-by
-
-higher layers.
-
----
-
 ## Canonical Principle
 
 Every
