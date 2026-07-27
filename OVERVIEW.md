@@ -97,15 +97,57 @@ of
 
 the Codex
 
-is:
+is established
 
-06_PHILOSOPHY
-       │
-       ▼
-07_CONSTITUTION
-       ├──► 11_APPENDIX
-       ▼
-08_COSMOS
+through
+
+successive
+
+constitutional layers.
+
+The constitutional principles
+
+established
+
+in
+
+**06_PHILOSOPHY**
+
+shall govern
+
+**07_CONSTITUTION**.
+
+The constitutional principles
+
+established
+
+in
+
+**07_CONSTITUTION**
+
+shall govern
+
+**08_COSMOS**.
+
+**11_APPENDIX**
+
+shall serve
+
+as
+
+constitutional reference
+
+supporting
+
+the Constitution
+
+and
+
+shall never
+
+possess
+
+independent constitutional authority.
 
 All lower constitutional layers
 
