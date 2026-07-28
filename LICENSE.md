@@ -36,7 +36,7 @@ its Official Translations.
 
 --------------------------------------------------
 
-Copyright © 2026 Sangbum BAE.
+Copyright © 2026 Sangbum.
 All Rights Reserved.
 
 --------------------------------------------------
