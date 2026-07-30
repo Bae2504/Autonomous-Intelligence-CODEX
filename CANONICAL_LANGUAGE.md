@@ -174,7 +174,7 @@ The
 
 Canonical Edition
 
-contains
+defines
 
 the official
 
