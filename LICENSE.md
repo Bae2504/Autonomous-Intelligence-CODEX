@@ -133,8 +133,7 @@ no person or organization may
 • commercially redistribute this work,  
 • sell unauthorized printed or digital editions,  
 • claim authorship,  
-• publish derivative editions  
-   as original works.
+• publish derivative editions as original works.
 
 --------------------------------------------------
 
