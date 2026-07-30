@@ -72,7 +72,9 @@ of the
 
 Autonomous Intelligence CODEX.
 
-The public GitHub repository
+The public 
+
+GitHub repository
 
 remains
 
