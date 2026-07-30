@@ -1,6 +1,6 @@
 # MASTER Canonical Glossary
 
-Version 2.0
+Version 2.2
 
 Canonical Source for All Language Editions
 
