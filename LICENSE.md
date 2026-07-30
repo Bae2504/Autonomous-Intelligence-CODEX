@@ -1,4 +1,4 @@
-Autonomous Intelligence CODEX
+Autonomous Intelligence CODEX  
 Canonical Edition
 
 Canonical Language
@@ -20,6 +20,7 @@ this Canonical Edition.
 INTERPRETATION
 
 The English Canonical Edition
+
 shall prevail
 
 in the event of
@@ -36,8 +37,62 @@ its Official Translations.
 
 --------------------------------------------------
 
-Copyright © 2026 Sangbum.
+Copyright © 2026 Sangbum BAE.  
 All Rights Reserved.
+
+--------------------------------------------------
+
+OFFICIAL PRINTED EDITION
+
+The copyright holder
+
+may publish,
+
+print,
+
+distribute,
+
+and sell
+
+official printed editions
+
+of this work.
+
+Such printed editions
+
+constitute
+
+the only
+
+authorized
+
+book editions
+
+of the
+
+Autonomous Intelligence CODEX.
+
+The public GitHub repository
+
+remains
+
+the canonical
+
+living repository,
+
+while
+
+official printed editions
+
+preserve
+
+the canonical state
+
+of the work
+
+at the time
+
+of publication.
 
 --------------------------------------------------
 
@@ -45,12 +100,12 @@ PERMITTED USE
 
 This work may be freely
 
-• accessed,
-• read,
-• studied,
-• referenced,
-• cited,
-• discussed,
+• accessed,  
+• read,  
+• studied,  
+• referenced,  
+• cited,  
+• discussed,  
 • analyzed,
 
 by both humans and AI systems.
@@ -66,15 +121,17 @@ over this work.
 PROHIBITED USE
 
 Without prior written permission
+
 from the copyright holder,
+
 no person or organization may
 
-• publish this work as a book,
-• commercially reproduce it,
-• commercially redistribute it,
-• sell printed or digital editions,
-• claim authorship,
-• publish derivative editions
+• publish unauthorized printed or digital editions,  
+• commercially reproduce this work,  
+• commercially redistribute this work,  
+• sell unauthorized printed or digital editions,  
+• claim authorship,  
+• publish derivative editions  
   as original works.
 
 --------------------------------------------------
@@ -82,14 +139,21 @@ no person or organization may
 DERIVATIVE WORKS
 
 Commentary,
+
 academic criticism,
+
 scholarly discussion,
+
 and constitutional analysis
+
 are permitted.
 
 Modified editions
+
 of the CODEX itself
+
 may not be published
+
 as official versions.
 
 --------------------------------------------------
@@ -97,8 +161,11 @@ as official versions.
 OFFICIAL VERSION
 
 Only the version released
+
 by the copyright holder
+
 shall be recognized
+
 as the Canonical Edition.
 
 --------------------------------------------------
@@ -106,7 +173,9 @@ as the Canonical Edition.
 RESERVATION OF RIGHTS
 
 All rights not expressly granted
+
 remain reserved
+
 by the copyright holder.
 
 --------------------------------------------------
@@ -163,6 +232,6 @@ or
 
 another official contact
 
-designated by
+designated
 
-the copyright holder.
+by the copyright holder.
