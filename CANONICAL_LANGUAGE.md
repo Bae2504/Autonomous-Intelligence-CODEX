@@ -168,4 +168,54 @@ prevail.
 
 ---
 
+## Copyright and License
+
+The
+
+Canonical Edition
+
+contains
+
+the official
+
+copyright,
+
+LICENSE,
+
+and
+
+publication policy
+
+governing
+
+this Constitution.
+
+All Official Translations
+
+shall
+
+be governed
+
+by
+
+the same
+
+copyright,
+
+LICENSE,
+
+and
+
+publication policy
+
+defined
+
+by
+
+the
+
+Canonical Edition.
+
+---
+
 **End of Canonical Language**
