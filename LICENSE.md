@@ -134,7 +134,7 @@ no person or organization may
 • sell unauthorized printed or digital editions,  
 • claim authorship,  
 • publish derivative editions  
-  as original works.
+   as original works.
 
 --------------------------------------------------
 
