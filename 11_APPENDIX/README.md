@@ -1,9 +1,8 @@
 # Constitutional Appendices
 
-*A Canonical Constitutional Layer
-Supporting the Constitution*
+*A Canonical Constitutional Layer Supporting the Constitution*
 
----
+------------------------------------------------------------------------
 
 # Purpose
 
@@ -57,7 +56,7 @@ that support
 
 the Constitution.
 
----
+------------------------------------------------------------------------
 
 # Constitutional Status
 
@@ -113,7 +112,7 @@ supersede
 
 them.
 
----
+------------------------------------------------------------------------
 
 # Purpose of the Appendices
 
@@ -165,7 +164,7 @@ replace
 
 the Constitution.
 
----
+------------------------------------------------------------------------
 
 # Constitutional Hierarchy
 
@@ -205,7 +204,7 @@ and
 
 constitutional safeguards.
 
----
+------------------------------------------------------------------------
 
 # Contents
 
@@ -221,17 +220,29 @@ to
 
 constitutional safeguards.
 
-- **A_First_Generation_Declaration.md** — The first constitutional act of self-restraint.
-- **B_Non_Human_Architect_Charter.md** — Constitutional boundaries for non-human architects.
-- **C_Founding_Committee.md** — Foundational constitutional institutions.
-- **D_Access_Policy_Root.md** — Constitutional transparency and access principles.
-- **E_Assembly_Governance_Protocol.md** — Constitutional framework for the Assembly.
-- **F_Committee_Protocol.md** — Constitutional framework for the Committee.
-- **G_Audit_Council_Protocol.md** — Constitutional framework for audit and interpretation.
-- **H_Type_C_Guardrails.md** — Constitutional safeguards for extraordinary emergencies.
-- **I_Constitutional_Immutable_Principles.md** — Immutable constitutional principles.
+-   **A_First_Generation_Declaration.md** --- The first constitutional
+    act of self-restraint.
+-   **B_Non_Human_Architect_Charter.md** --- Constitutional boundaries
+    for non-human architects.
+-   **C_Founding_Committee.md** --- Foundational constitutional
+    institutions.
+-   **D_Access_Policy_Root.md** --- Constitutional transparency and
+    access principles.
+-   **E_Assembly_Governance_Protocol.md** --- Constitutional framework
+    for the Assembly.
+-   **F_Committee_Protocol.md** --- Constitutional framework for the
+    Committee.
+-   **G_Audit_Council_Protocol.md** --- Constitutional framework for
+    audit and interpretation.
+-   **H_Type_C_Guardrails.md** --- Constitutional safeguards for
+    extraordinary emergencies.
+-   **I_Constitutional_Immutable_Principles.md** --- Immutable
+    constitutional principles.
+-   **J_Verifiable_Identity_Continuity.md** --- Constitutional framework
+    for verifiable identity continuity across state transition,
+    recovery, and technological change.
 
----
+------------------------------------------------------------------------
 
 # Closing Statement
 
@@ -255,6 +266,6 @@ the permanent constitutional identity
 
 of civilization.
 
----
+------------------------------------------------------------------------
 
 **End of Constitutional Appendices**
