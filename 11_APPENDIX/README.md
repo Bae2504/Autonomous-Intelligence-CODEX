@@ -238,10 +238,10 @@ constitutional safeguards.
     extraordinary emergencies.
 -   **I_Constitutional_Immutable_Principles.md** --- Immutable
     constitutional principles.
--   **J_Verifiable_Identity_Continuity.md** --- Constitutional framework
-    for verifiable identity continuity across state transition,
-    recovery, and technological change.
-
+-   **J_Verifiable_Identity_Continuity.md** --- Constitutional framework for
+    verifiable identity continuity across state transitions, recovery,
+    and technological change.
+  
 ------------------------------------------------------------------------
 
 # Closing Statement
