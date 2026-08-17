@@ -1,0 +1,77 @@
+{
+  "schema": "AIC_PUBLIC_MANIFEST",
+  "schema_version": "1.0",
+  "manifest_purpose": "Machine-readable public discovery metadata for the Autonomous Intelligence CODEX (AIC).",
+  "project": {
+    "name": "Autonomous Intelligence CODEX",
+    "abbreviation": "AIC",
+    "canonical_version": "2.2"
+  },
+  "public_discovery": {
+    "human_entry_document": "README.md",
+    "discovery_guide": "PUBLIC_DISCOVERY.md",
+    "machine_entry_document": "aic-manifest.json"
+  },
+  "verifiable_identity_continuity": {
+    "release": "Version 1.1",
+    "evidence_status": "VERIFIED",
+    "experimental_series": "CLOSED",
+    "content_document_count": 29,
+    "integrity_manifest": "SHA256SUMS.txt",
+    "canonical_root": "07_VERIFIABLE_IDENTITY_CONTINUITY",
+    "canonical_root_document_count": 30
+  },
+  "experimental_closure": {
+    "state_classification": "PRESERVED_HISTORICAL_REFERENCE",
+    "identity_type": "QRL_XMSS",
+    "role": "AI_ROOT_IDENTITY",
+    "xmss_height": 12,
+    "total_ots": 4096,
+    "protocol_version": "1.1",
+    "verified_ots_progression": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "signer_next_index_at_closure": 5,
+    "verifier_next_expected_ots_at_closure": 5,
+    "signer_verifier_reconciliation": "MATCH_AT_5",
+    "ots_5_consumption_at_closure": "NONE",
+    "warning": "This is a preserved experimental closure state, not permanent authorization to use OTS #5."
+  },
+  "infrastructure_reference": {
+    "environment": "LOCAL_POCKETIC",
+    "mainnet_deployment_claim": false,
+    "canister_id_in_validated_local_environment": "sj7wl-lh777-77774-qaaua-cai",
+    "repository_name": "Canonical Archive",
+    "repository_version": "2.2",
+    "tree_version": "1.1",
+    "document_count": 131,
+    "repository_status": "Healthy",
+    "duplicate_documents": 0,
+    "missing_documents": 0,
+    "final_verified_quiesced_checkpoint": "INFRASTRUCTURE_V1.2_VIC_V1.1_131_DOCUMENT_CHECKPOINT_20260816",
+    "checkpoint_manifest_sha256": "13ee3654be6c56a5a34510651b4b38edc61f6ab40f5aed30f1206567acf1244e"
+  },
+  "validated_toolchain": {
+    "dfx": "0.31.0",
+    "pocketic_server": "11.0.0"
+  },
+  "safety": {
+    "recovery_rule": "NO RECONCILIATION = NO SIGNING",
+    "physical_recovery_clone": "X Memory Card",
+    "physical_clone_is_independent_identity": false,
+    "physical_clone_is_parallel_signer": false
+  },
+  "interpretation_boundary": {
+    "cryptographic_continuity_equals_philosophical_identity": false,
+    "xmss_claimed_as_universal_identity_technology": false,
+    "scope": "Technical evidence from the tested implementation, environment, and preserved state transitions."
+  },
+  "future_public_registry": {
+    "status": "OPTIONAL_NOT_DEPLOYED",
+    "purpose": "A future public registry may expose public metadata and integrity anchors without exposing private signer or recovery state."
+  }
+}
