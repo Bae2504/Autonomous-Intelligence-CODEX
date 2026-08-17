@@ -93,6 +93,40 @@ the following order.
 
 ---
 
+## Public Discovery
+
+For
+
+public and
+
+machine-readable discovery,
+
+see
+
+PUBLIC_DISCOVERY.md
+
+and
+
+aic-manifest.json.
+
+These files
+
+provide
+
+discovery metadata
+
+and
+
+do not alter
+
+the constitutional content
+
+of
+
+this Codex.
+
+---
+
 ## Contents
 
 This Codex
