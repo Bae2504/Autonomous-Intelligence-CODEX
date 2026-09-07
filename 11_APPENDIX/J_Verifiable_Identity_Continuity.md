@@ -355,10 +355,11 @@ Experimental results
 shall be documented separately
 from constitutional conclusions.
 
-The existence of experimental work
-shall not incorporate
-its undisclosed technical details
-into this Appendix.
+Experimental work
+shall remain distinct
+from this Appendix
+unless expressly incorporated
+through constitutional review.
 
 ---
 
@@ -617,9 +618,10 @@ for constitutional interpretation
 
 and shall not require
 the publication
-of security-sensitive,
+of confidential,
+security-sensitive,
 operational,
-or pre-filing technical details.
+or implementation-specific details.
 
 ---
 
