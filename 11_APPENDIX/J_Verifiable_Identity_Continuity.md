@@ -651,4 +651,6 @@ should remain
 
 capable of verification.
 
+---
+
 **End of Verifiable Identity Continuity**
