@@ -4,11 +4,13 @@
 
 Constitutional Reference Framework
 
-This Appendix establishes a framework
+This Appendix establishes
+a framework
 for the constitutional consideration
 of verifiable identity continuity.
 
-Its principles remain technology-neutral.
+Its principles
+remain technology-neutral.
 
 Technical references
 and experimental examples
@@ -348,6 +350,7 @@ provides evidence
 that is consistent,
 independently reviewable,
 and appropriate
+
 to the constitutional question
 under consideration.
 
@@ -358,6 +361,7 @@ from constitutional conclusions.
 Experimental work
 shall remain distinct
 from this Appendix
+
 unless expressly incorporated
 through constitutional review.
 
@@ -618,6 +622,7 @@ for constitutional interpretation
 
 and shall not require
 the publication
+
 of confidential,
 security-sensitive,
 operational,
@@ -645,7 +650,5 @@ of that continuity
 should remain
 
 capable of verification.
-
----
 
 End of Verifiable Identity Continuity
