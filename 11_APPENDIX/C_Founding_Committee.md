@@ -78,9 +78,9 @@ establishes
 
 Committees,
 
-Audit Council,
+the Audit Council,
 
-Assemblies,
+the Assembly,
 
 and
 
@@ -224,7 +224,7 @@ institution.
 
 ### Principle of Institutional Equality
 
-No 
+No
 
 constitutional institution
 
@@ -328,19 +328,49 @@ this Constitution.
 
 ## Transition to the First Committee
 
-Upon
+When
 
-the establishment
+the composition
+
+and organization
 
 of
 
 the constitutional institutions
 
-provided
+necessary
 
-under
+for
 
-this Constitution,
+the operation
+
+of
+
+the constitutional
+
+governance structure
+
+have been completed,
+
+their respective
+
+Chairs
+
+have been
+
+lawfully selected,
+
+and
+
+the constitutional
+
+governance structure
+
+has thereby
+
+become
+
+operationally constituted,
 
 the Founding Committee
 
@@ -360,9 +390,7 @@ this Constitution.
 
 Such transition
 
-shall
-
-not
+shall not
 
 confer
 
@@ -374,35 +402,21 @@ The first
 
 Committee
 
-shall
+shall thereafter
 
-thereafter
+be constituted
 
-be
-
-constituted
+and operated
 
 in accordance
 
 with
 
-the Committee
-
-Protocol
+the Committee Protocol
 
 and
 
-its Governance,
-
-and
-
-shall
-
-thereafter
-
-operate
-
-accordingly.
+its Governance.
 
 ---
 
