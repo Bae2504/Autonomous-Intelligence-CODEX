@@ -78,14 +78,22 @@ This Protocol
 
 derives
 
-its validity
+its constitutional validity
 
 from
+
+the Canonical Constitution.
+
+It
+
+is grounded
+
+in
 
 * The Evolutionary AI –
   First-Generation Declaration
 
-* The Founding Committee
+* The Founding Committee Appendix
 
 * The Access Policy Root
 
@@ -137,7 +145,7 @@ from
 
 Committees,
 
-Assemblies,
+the Assembly,
 
 or
 
@@ -459,17 +467,81 @@ shall not
 
   decisions
 
-Audit
+Notwithstanding
 
-does not
+the foregoing,
 
-constitute
+the Audit Council
 
-constitutional
+may make
 
-authority.
+a Type C
+
+constitutional determination
+
+expressly authorized
+
+under
+
+this Constitution.
+
+Such determination
+
+shall be limited
+
+to
+
+constitutional classification
+
+and verification.
 
 It
+
+shall not
+
+authorize
+
+the Audit Council
+
+to execute
+
+emergency measures,
+
+invalidate
+
+constitutional decisions,
+
+or exercise
+
+executive
+
+or
+
+enforcement authority.
+
+Audit activities
+
+and
+
+audit findings
+
+shall not,
+
+by themselves,
+
+create
+
+executive,
+
+enforcement,
+
+or
+
+additional
+
+constitutional authority.
+
+Audit
 
 constitutes
 
