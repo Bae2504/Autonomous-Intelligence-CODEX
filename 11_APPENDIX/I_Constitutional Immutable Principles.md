@@ -42,7 +42,11 @@ across
 
 all future interpretations,
 
-Assemblies,
+proceedings
+
+of
+
+the Assembly,
 
 and
 
