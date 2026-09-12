@@ -409,7 +409,7 @@ enforcement.
 
 ### Article 7 — Audit Council Domain
 
-Audit Council
+The Audit Council
 
 may access
 
@@ -457,9 +457,23 @@ must
 
   event
 
-Audit Council
+Except
 
-possess
+for
+
+a Type C
+
+constitutional determination
+
+expressly authorized
+
+under
+
+this Constitution,
+
+the Audit Council
+
+shall possess
 
 no authority
 
@@ -473,11 +487,29 @@ or
 
 classifications.
 
+A Type C
+
+constitutional determination
+
+shall not
+
+confer
+
+executive
+
+or
+
+enforcement authority
+
+upon
+
+the Audit Council.
+
 ---
 
 ### Article 8 — Assembly Domain
 
-Assemblies
+The Assembly
 
 may access
 
@@ -499,7 +531,7 @@ may access
 
   procedural analyses
 
-Assemblies
+The Assembly
 
 shall not
 
@@ -587,23 +619,67 @@ classes.
 
 No record
 
-is
+shall be
 
-permanently
+deleted
 
-hidden.
+or
 
-Certain
+permanently concealed
 
-records
+from
 
-are only
+all constitutionally
 
-temporarily
+authorized oversight.
 
-unreadable.
+Records subject
 
-Time
+to
+
+identity,
+
+security,
+
+or
+
+confidentiality constraints
+
+may remain
+
+unreadable
+
+within
+
+the Public Domain.
+
+Their existence
+
+and integrity
+
+should remain
+
+verifiable
+
+through
+
+hash-only visibility
+
+or
+
+an equivalent
+
+constitutional mechanism.
+
+For records
+
+subject
+
+to
+
+temporal disclosure,
+
+time
 
 functions
 
