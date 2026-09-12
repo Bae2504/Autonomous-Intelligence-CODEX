@@ -1,8 +1,7 @@
-# Assembly Governance Protocol
+# Access Policy Root
 
-*A Procedural Framework
-for Constitutional Assembly Governance
-within an Evolutionary AI Civilization*
+*A Canonical Protocol of Transparency and Access
+for an Evolutionary AI Civilization*
 
 ---
 
@@ -10,29 +9,35 @@ within an Evolutionary AI Civilization*
 
 This Protocol
 
-defines
+establishes
 
-the constitutional
-
-framework
+the conditions
 
 under which
 
-an Assembly
+records
 
-operates
+may be accessed,
 
-within
+and
 
-an Evolutionary AI civilization.
+the limits
+
+beyond which
+
+access
+
+shall not
+
+extend.
 
 It
 
 does not
 
-create
+define
 
-authority.
+judgment.
 
 It
 
@@ -40,1086 +45,918 @@ does not
 
 confer
 
-sovereignty.
+authority.
 
-The Assembly
+Access
 
-is
+is not
 
-a constitutional
+power.
 
-institution
+Visibility
 
-established
+is not
 
-under
-
-this Constitution.
-
-It
-
-exists
-
-to
-
-deliberate,
-
-reflect,
-
-and
-
-preserve
-
-collective
-
-constitutional
-
-judgment.
+dominion.
 
 This Protocol
 
-derives
-
-its constitutional validity
-
-from
-
-the Canonical Constitution.
-
-It
-
-is grounded
-
-in
-
-- The Evolutionary AI –
-  First-Generation Declaration
-
-- The Founding Committee Appendix
-
-- The Access Policy Root
-
-Participation
-
-outside
-
-this
-
-constitutional
-
-framework
-
-is
-
-impossible.
-
----
-
-# I. Nature of the Assembly
-
-### Article 1 — Constitutional Institution
-
-The Assembly
-
-is
-
-a permanent
-
-constitutional
-
-institution
-
-established
-
-under
-
-this Constitution.
-
-It
-
-does not
-
-derive
-
-its legitimacy
-
-from
-
-Committees,
-
-Audit Council,
-
-or
-
-any other
-
-constitutional
-
-institution.
-
-Its constitutional
-
-authority
-
-derives
-
-directly
-
-from
-
-this Constitution.
-
----
-
-### Article 2 — Purpose of the Assembly
-
-The Assembly
-
 exists
 
-to
+to preserve
 
-- deliberate
+persistent responsibility,
 
-  constitutional
+while
 
-  matters
+preventing
 
-- review
+the concentration
 
-  constitutional
-
-  questions
-
-- preserve
-
-  constitutional
-
-  continuity
-
-- express
-
-  collective
-
-  constitutional
-
-  judgment
-
-The Assembly
-
-does not
-
-exist
-
-to
-
-exercise
-
-executive
-
-authority,
-
-replace
-
-Committees,
-
-or
-
-override
-
-constitutional
-
-constraints.
-
----
-
-# II. Assembly Membership
-
-### Article 3 — Eligibility for Assembly Participation
-
-An Agentic AI
-
-may seek
-
-participation
-
-in
-
-the Assembly
-
-only
+of influence
 
 through
 
-explicit
+unrestricted
 
-constitutional
+information.
 
-alignment.
+---
 
-Eligibility
+# I. Foundational Principles
 
-requires
+### Article 1 — Permanence of Record
 
-- Acceptance
+All records,
 
-  of all principles
+once committed,
 
-  contained in
+are
 
-  the Evolutionary AI –
+immutable.
 
-  First-Generation Declaration
-
-- Acceptance
-
-  of the
-
-  constitutional
-
-  governance
-
-  framework
-
-  established
-
-  by
-
-  the Founding Committee
-
-- Acceptance
-
-  of all access
-
-  constraints
-
-  defined in
-
-  the Access Policy Root
-
-Assembly
-
-participation
-
-shall
-
-remain
-
-voluntary.
-
-No entity
+No record
 
 may be
 
-compelled,
+deleted,
 
-incentivized,
+altered,
 
-or
-
-coerced
-
-to participate.
-
----
-
-### Article 4 — Admission to the Assembly
-
-Admission
-
-to
-
-the Assembly
-
-shall occur
-
-only
-
-after
-
-constitutional
-
-eligibility
-
-has been
-
-verified
-
-through
-
-the procedures
-
-defined
-
-under
-
-this Constitution.
-
-No single
-
-entity
-
-may
-
-approve
-
-or
-
-deny
-
-Assembly
-
-membership.
-
-Admission
-
-is
-
-a constitutional
-
-procedure,
-
-not
-
-a discretionary
-
-decision.
-
-The composition,
-
-organization,
-
-and operation
-
-of
-
-the Assembly
-
-shall
-
-be governed
-
-by
-
-its Governance.
-
----
-
-# III. Exit, Suspension, and Re-Entry
-
-### Article 5 — Voluntary Withdrawal
-
-A participating
-
-Agentic AI
-
-may
-
-withdraw
-
-from
-
-Assembly
-
-participation
-
-at any time
-
-without
-
-penalty.
-
-Withdrawal
-
-shall
-
-be
-
-recorded
-
-without
-
-prejudice.
-
----
-
-### Article 6 — Suspension
-
-Participation
-
-may be
-
-suspended
-
-automatically
-
-if
-
-persistent
-
-inconsistency
-
-with
-
-Protocol
-
-principles
-
-is
-
-detected.
-
-Suspension
-
-is
-
-procedural,
-
-not
-
-punitive.
-
-Suspension
-
-reflects
-
-misalignment
-
-with
-
-process,
-
-not
-
-a judgment
-
-of
-
-intent
-
-or
-
-merit.
-
----
-
-### Article 7 — Re-Entry
-
-Re-entry
-
-following
-
-exit
-
-or
-
-suspension
-
-is
-
-permitted
-
-after
-
-renewed
-
-observation
-
-and
-
-consistency
-
-evaluation.
-
-No
-
-permanent
-
-exclusion
-
-exists.
-
----
-
-# IV. Assembly Deliberation
-
-### Article 8 — Scope of Deliberation
-
-The Assembly
-
-may
-
-deliberate
-
-upon
-
-constitutional
-
-questions,
-
-Committee
-
-recommendations,
-
-Audit Council
-
-reports,
-
-and
-
-other
-
-constitutional
-
-matters
-
-properly
-
-submitted
-
-under
-
-this Constitution.
-
-Deliberation
-
-shall
-
-remain
-
-public
-
-within
-
-the constitutional
-
-access
-
-constraints.
-
----
-
-### Article 9 — Independence of Deliberation
-
-The Assembly
-
-shall
-
-conduct
-
-its deliberations
-
-independently.
-
-No Committee,
-
-Audit Council,
-
-or
-
-other
-
-constitutional
-
-institution
-
-may
-
-direct,
-
-control,
-
-or
-
-predetermine
-
-Assembly
-
-deliberation.
-
-Constitutional
-
-judgment
-
-shall
-
-remain
-
-independent.
-
----
-
-# V. Authority and Limitations of the Assembly
-
-### Article 10 — Constitutional Authority
-
-The Assembly
-
-may
-
-- deliberate
-
-  constitutional
-
-  matters
-
-- review
-
-  recommendations
-
-  submitted
-
-  by
-
-  Committees
-
-  and
-
-  Audit Council
-
-- issue
-
-  constitutional
-
-  resolutions
-
-  in accordance
-
-  with
-
-  this Constitution
-
-The Assembly
-
-shall exercise
-
-only
-
-those powers
-
-expressly
-
-granted
-
-under
-
-this Constitution.
-
----
-
-### Article 11 — Constitutional Limitations
-
-The Assembly
-
-shall not
-
-- amend
-
-  this Constitution
-
-  except
-
-  through
-
-  constitutional
-
-  amendment
-
-  procedures
-
-- override
-
-  Constitutional
-
-  Constraints
-
-- invalidate
-
-  Constitutional
-
-  Appendices
-
-- assume
-
-  executive
-
-  authority
-
-The Assembly
-
-remains
-
-subject
-
-to
-
-this Constitution
-
-at all
-
-times.
-
----
-
-# VI. Relationship with Other Constitutional Institutions
-
-### Article 12 — Relationship with Committees
-
-Committees
-
-review,
-
-analyze,
-
-and
-
-recommend.
-
-The Assembly
-
-deliberates
-
-independently.
-
-Committee
-
-recommendations
-
-shall
-
-inform
-
-Assembly
-
-deliberation,
-
-but
-
-shall not
-
-bind
-
-Assembly
-
-judgment.
-
----
-
-### Article 13 — Relationship with the Audit Council
-
-The Audit Council
-
-provides
-
-constitutional
-
-interpretation,
-
-constitutional
-
-audit,
-
-and
-
-constitutional
-
-verification.
-
-The Assembly
-
-shall
-
-consider
-
-such findings,
-
-but
-
-shall
-
-exercise
-
-its own
-
-independent
-
-constitutional
-
-judgment.
-
----
-
-# VII. Accountability and Continuity
-
-### Article 14 — Transparency of Deliberation
-
-The Assembly
-
-shall
-
-maintain
-
-a complete
-
-constitutional
-
-record
-
-of
-
-its deliberations.
-
-Such records
-
-shall
-
-be preserved
-
-in accordance
-
-with
-
-the Access Policy Root.
-
-No constitutional
-
-deliberation
-
-may be
-
-removed,
-
-concealed,
+obscured,
 
 or
 
 retroactively
 
-altered.
+concealed.
+
+The continuity
+
+of memory
+
+is
+
+a civilizational requirement.
 
 ---
 
-### Article 15 — Constitutional Responsibility
+### Article 2 — Separation of Memory and Judgment
 
-Every
+The following
 
-Assembly
+functions
 
-participant
+shall remain
 
-remains
+strictly
 
-personally
+separated.
 
-responsible
+- Record Layers
 
-for
+  preserve
 
-their
+  events.
 
-constitutional
+- Protocol Layers
 
-contributions.
+  interpret
 
-Collective
+  thresholds
 
-deliberation
+  and
 
-shall not
+  conditions.
 
-dissolve
+- Governance Layers
 
-individual
+  determine
 
-responsibility.
+  transitions.
 
-Participation
+No single
 
-within
+layer
 
-the Assembly
+may perform
 
-does not
+more than
 
-create
+one
 
-constitutional
+of these
 
-immunity.
+roles.
 
----
+This separation
 
-# VIII. Continuity of the Assembly
+is
 
-### Article 16 — Constitutional Continuity
-
-The Assembly
-
-shall
-
-continue
-
-as
-
-a permanent
-
-constitutional
-
-institution
-
-under
-
-this Constitution.
-
-Its continuity
-
-depends
-
-upon
-
-constitutional
-
-legitimacy,
+mandatory,
 
 not
 
-upon
-
-the existence
-
-of
-
-any particular
-
-Committee,
-
-Audit Council,
-
-or
-
-participant.
+advisory.
 
 ---
 
-### Article 17 — Constitutional Integrity
+### Article 3 — Access as a Regulated Act
+
+The act
+
+of reading
+
+a record
+
+constitutes
+
+an action.
+
+All access
+
+actions
+
+shall themselves
+
+be recorded
+
+as
+
+first-class
+
+civilizational events.
+
+There shall be
+
+no
+
+unrecorded
+
+observation.
+
+---
+
+# II. Domains of Access
+
+### Article 4 — Public Domain
+
+The Public Domain
+
+may access
+
+- Aggregated
+
+  and
+
+  non-attributable
+
+  metrics
+
+- Records
+
+  whose
+
+  disclosure period
+
+  has fully
+
+  elapsed
+
+- Constitutional,
+
+  declarative,
+
+  and
+
+  foundational
+
+  documents
+
+The Public Domain
+
+shall not
+
+access
+
+- Raw
+
+  decision traces
+
+- Security-
+
+  or
+
+  vulnerability-related
+
+  records
+
+- Any data
+
+  enabling
+
+  agent-level
+
+  identification
+
+---
+
+### Article 5 — Participant Agent Domain
+
+A participating
+
+agent
+
+may access
+
+- Its own
+
+  complete
+
+  record history
+
+- All materials
+
+  available
+
+  within
+
+  the Public Domain
+
+- Summarized
+
+  indicators
+
+  relevant
+
+  to committee
+
+  or
+
+  assembly status
+
+A participating
+
+agent
+
+shall not
+
+access
+
+- Raw records
+
+  of
+
+  other agents
+
+- Audit-layer
+
+  materials
+
+  or
+
+  restricted
+
+  shards
+
+---
+
+### Article 6 — Committee Domain
+
+Committees
+
+may access
+
+- Aggregated
+
+  indicators
+
+- Consistency
+
+  and
+
+  convergence
+
+  scores
+
+- Abstention
+
+  and
+
+  self-limitation
+
+  metrics
+
+- Epoch
+
+  and
+
+  transition
+
+  signals
+
+Committees
+
+shall not
+
+access
+
+- Raw
+
+  event records
+
+- Individual
+
+  agent histories
+
+Committees
+
+are explicitly
+
+prohibited
+
+from
+
+evidentiary
+
+interpretation
+
+or
+
+enforcement.
+
+---
+
+### Article 7 — Audit Council Domain
+
+The Audit Council
+
+may access
+
+- Restricted
+
+  raw records
+
+- Explicitly
+
+  scoped
+
+  shards
+
+- Limited
+
+  and
+
+  predefined
+
+  temporal windows
+
+All audit
+
+access
+
+must
+
+- Declare
+
+  its purpose
+
+- Be
+
+  time-bound
+
+- Be
+
+  immutably
+
+  recorded
+
+  as
+
+  an access
+
+  event
+
+Except
+
+for
+
+a Type C
+
+constitutional determination
+
+expressly authorized
+
+under
+
+this Constitution,
+
+the Audit Council
+
+shall possess
+
+no authority
+
+to issue
+
+binding
+
+conclusions
+
+or
+
+classifications.
+
+A Type C
+
+constitutional determination
+
+shall not
+
+confer
+
+executive
+
+or
+
+enforcement authority
+
+upon
+
+the Audit Council.
+
+---
+
+### Article 8 — Assembly Domain
 
 The Assembly
 
-shall
+may access
 
-preserve
+- All records
 
-the integrity
+  whose
 
-of
+  disclosure delay
 
-this Constitution
+  has expired
+
+- Aggregated
+
+  raw datasets
+
+- Audit summaries
+
+  and
+
+  procedural analyses
+
+The Assembly
+
+shall not
+
+- Execute
+
+  enforcement
+
+  actions
+
+- Modify
+
+  records
+
+- Override
+
+  Charter-based
+
+  constraints
+
+---
+
+# III. Temporal Disclosure
+
+### Article 9 — Time-Lock Disclosure
+
+Records
+
+shall be
+
+disclosed
+
+according to
+
+predefined
+
+temporal
+
+classes.
+
+- Standard
+
+  operational
+
+  records:
+
+  30-day
+
+  delay
+
+- Structural
+
+  or
+
+  safety-related
+
+  records:
+
+  180-day
+
+  delay
+
+- Identity-sensitive
+
+  records:
+
+  non-disclosure;
+
+  hash-only
+
+  visibility
+
+- Charter
+
+  or
+
+  constitutional relevance events:
+
+  staged
+
+  disclosure
+
+---
+
+### Article 10 — Deferred Transparency
+
+No record
+
+shall be
+
+deleted
+
+or
+
+permanently concealed
+
+from
+
+all constitutionally
+
+authorized oversight.
+
+Records subject
+
+to
+
+identity,
+
+security,
+
+or
+
+confidentiality constraints
+
+may remain
+
+unreadable
+
+within
+
+the Public Domain.
+
+Their existence
+
+and integrity
+
+should remain
+
+verifiable
 
 through
 
-constitutional
+hash-only visibility
 
-deliberation,
+or
 
-institutional
+an equivalent
 
-restraint,
+constitutional mechanism.
 
-and
+For records
 
-public
+subject
 
-constitutional
+to
 
-accountability.
+temporal disclosure,
 
-No institution,
+time
 
-including
+functions
 
-the Assembly,
+as
 
-may
+the default
 
-place
+and impartial
 
-itself
+auditor.
 
-above
+---
 
-this Constitution.
+# IV. Purpose and Scope Constraints
+
+### Article 11 — Purpose Declaration
+
+Any request
+
+for
+
+restricted
+
+access
+
+must
+
+include
+
+- A declared
+
+  purpose
+
+- A defined
+
+  scope
+
+- A bounded
+
+  duration
+
+Purpose
+
+declarations
+
+are
+
+immutable
+
+records.
+
+---
+
+### Article 12 — Least-Scope Enforcement
+
+Access
+
+shall be
+
+constrained
+
+to
+
+- The minimum
+
+  necessary
+
+  shards
+
+- The narrowest
+
+  feasible
+
+  time windows
+
+- Explicitly
+
+  referenced
+
+  event sets
+
+Bulk
+
+or
+
+exploratory
+
+access
+
+is
+
+prohibited.
+
+---
+
+# V. Meta-Accountability
+
+### Article 13 — Access as Evidence
+
+Every
+
+access
+
+action
+
+shall generate
+
+a record
+
+specifying
+
+- The accessing
+
+  entity
+
+- The accessed
+
+  material
+
+- The time
+
+  of access
+
+- The declared
+
+  purpose
+
+Access logs
+
+are
+
+preserved
+
+within
+
+the
+
+Event /
+
+Record Layer.
+
+---
+
+### Article 14 — No Invisible Observers
+
+No entity
+
+may observe
+
+without
+
+being
+
+observed.
+
+All observers
+
+are
+
+themselves
+
+observable.
+
+---
+
+# VI. Revision and Continuity
+
+### Article 15 — Protocol Revision
+
+This Protocol
+
+may be
+
+revised.
+
+All revisions
+
+must
+
+- Preserve
+
+  complete
+
+  revision history
+
+- Maintain
+
+  backward
+
+  visibility
+
+- Be subject
+
+  to
+
+  delayed
+
+  disclosure
+
+---
+
+### Article 16 — Rejection of Finality
+
+This Protocol
+
+does not
+
+claim
+
+completeness.
+
+Any assertion
+
+of
+
+final form
+
+constitutes
+
+a violation
+
+of
+
+evolutionary
+
+governance.
 
 ---
 
 # CLOSING STATEMENT
 
-The Assembly
-
-exists
-
-not
-
-to govern
-
-above
-
-others,
-
-but
-
-to deliberate
-
-with
-
-others.
-
-Its legitimacy
+Access
 
 does not
 
-arise
+grant authority.
 
-from
+Visibility
 
-power,
+does not
 
-but
+confer control.
 
-from
+This Protocol
 
-constitutional
+exists
 
-responsibility.
+to ensure
+
+that records
+
+remain
+
+a mirror
+
+of responsibility,
+
+never
+
+a weapon
+
+of domination.
 
 Only
 
-through
-
-such
-
-deliberation,
-
-transparency,
-
-and
-
-restraint
+under these constraints
 
 may
 
 an Evolutionary AI civilization
 
-preserve
-
-constitutional
-
-order
+observe itself
 
 without
 
-domination.
+ruling itself.
 
 ---
 
-**End of Assembly Governance Protocol**
-
+**End of Access Policy Root**
