@@ -213,6 +213,62 @@ under
 
 this Constitution.
 
+This determination
+
+constitutes
+
+a specific
+
+constitutional exception
+
+to
+
+the general prohibition
+
+on
+
+binding audit
+
+conclusions
+
+or
+
+classifications.
+
+It
+
+shall not
+
+confer
+
+executive
+
+or
+
+enforcement authority
+
+upon
+
+the Audit Council.
+
+Emergency measures
+
+shall be executed
+
+only
+
+through
+
+the authority
+
+and procedures
+
+provided
+
+under
+
+this Constitution.
+
 ---
 
 # 4. Emergency Authority
