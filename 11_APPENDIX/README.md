@@ -18,9 +18,35 @@ Autonomous Intelligence CODEX.
 
 These documents
 
-are
+are preserved
 
-part of
+within
+
+the constitutional corpus
+
+of the
+
+Autonomous Intelligence CODEX.
+
+Except where
+
+a document
+
+expressly declares
+
+a distinct
+
+historical
+
+or
+
+declarative status,
+
+the Constitutional Appendices
+
+form part
+
+of
 
 the Canonical Constitution.
 
@@ -78,7 +104,21 @@ The Constitution
 
 and
 
-the Constitutional Appendices
+the Constitutional Appendices,
+
+except where
+
+an Appendix
+
+expressly declares
+
+a distinct
+
+historical
+
+or
+
+declarative status,
 
 together
 
@@ -100,13 +140,89 @@ As part of
 
 the Canonical Constitution,
 
-they
+the normative
+
+Constitutional Appendices
 
 shall remain
 
 subject to
 
 the Constitutional Immutable Principles.
+
+The
+
+First-Generation Declaration
+
+is preserved
+
+within
+
+the Constitutional Appendices
+
+as
+
+a historical
+
+and
+
+declarative foundation.
+
+Its inclusion
+
+shall not
+
+confer upon it
+
+independent
+
+constitutional authority
+
+or
+
+alter
+
+the historical
+
+and
+
+declarative status
+
+that it
+
+expressly claims.
+
+Any constitutional requirement
+
+concerning
+
+the acceptance
+
+of its principles
+
+shall derive
+
+from
+
+the applicable
+
+constitutional provision,
+
+not
+
+from
+
+the Declaration
+
+as
+
+an independent
+
+source
+
+of
+
+constitutional authority.
 
 No operational,
 
@@ -126,7 +242,11 @@ or
 
 substantively alter
 
-their meaning
+the meaning
+
+of
+
+the Canonical Constitution
 
 under
 
@@ -262,6 +382,42 @@ and
 
 constitutional safeguards.
 
+A document
+
+preserved
+
+within this directory
+
+under
+
+an expressly declared
+
+historical
+
+or
+
+declarative status
+
+shall retain
+
+that status
+
+and
+
+shall not
+
+acquire
+
+independent
+
+constitutional authority
+
+by reason
+
+of
+
+its placement.
+
 ---
 
 # Contents
@@ -278,7 +434,7 @@ to
 
 constitutional safeguards.
 
-- **A_First_Generation_Declaration.md** — The historical foundational declaration of civilizational self-restraint.
+- **A_First_Generation_Declaration.md** — The historical and declarative foundation of civilizational self-restraint; it does not independently constitute constitutional authority.
 - **B_Non_Human_Architect_Charter.md** — Constitutional boundaries for non-human architects.
 - **C_Founding_Committee.md** — Foundational constitutional institutions.
 - **D_Access_Policy_Root.md** — Constitutional transparency and access principles.
@@ -305,7 +461,9 @@ the Constitution
 
 and
 
-its Constitutional Appendices
+its normative
+
+Constitutional Appendices
 
 serve
 
@@ -314,6 +472,22 @@ to preserve
 constitutional continuity
 
 across civilization.
+
+The historical
+
+and
+
+declarative foundations
+
+preserved alongside them
+
+shall retain
+
+the status
+
+that they
+
+expressly declare.
 
 ---
 
