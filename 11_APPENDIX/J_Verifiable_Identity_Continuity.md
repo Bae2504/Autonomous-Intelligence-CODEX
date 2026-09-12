@@ -1,4 +1,4 @@
-# Appendix J — Verifiable Identity Continuity
+# Verifiable Identity Continuity
 
 ## Status
 
