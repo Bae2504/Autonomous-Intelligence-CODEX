@@ -80,14 +80,22 @@ This Protocol
 
 derives
 
-its validity
+its constitutional validity
 
 from
+
+the Canonical Constitution.
+
+It
+
+is grounded
+
+in
 
 - The Evolutionary AI –
   First-Generation Declaration
 
-- The Founding Committee
+- The Founding Committee Appendix
 
 - The Access Policy Root
 
