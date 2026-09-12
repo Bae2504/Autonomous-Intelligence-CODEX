@@ -32,11 +32,25 @@ operational manuals,
 
 technical specifications,
 
-implementation guides,
-
 or
 
-procedural documents.
+implementation guides.
+
+They
+
+may define
+
+constitutional procedures,
+
+but
+
+shall not
+
+prescribe
+
+implementation-specific
+
+operational procedures.
 
 They
 
@@ -106,13 +120,33 @@ may
 
 modify,
 
-reinterpret,
+supersede,
 
 or
 
-supersede
+substantively alter
 
-them.
+their meaning
+
+under
+
+the guise
+
+of
+
+interpretation.
+
+Valid constitutional
+
+interpretation
+
+shall remain
+
+governed
+
+by
+
+the Canonical Constitution.
 
 ---
 
@@ -146,15 +180,37 @@ They
 
 do not
 
-grant
+independently create
+
+sovereign
+
+or
+
+extra-constitutional
 
 authority.
+
+Any authority
+
+defined
+
+within them
+
+shall derive
+
+solely
+
+from
+
+the Canonical Constitution.
 
 They
 
 do not
 
 create
+
+implementation-specific
 
 operational procedures.
 
@@ -222,7 +278,7 @@ to
 
 constitutional safeguards.
 
-- **A_First_Generation_Declaration.md** — The first constitutional act of self-restraint.
+- **A_First_Generation_Declaration.md** — The historical foundational declaration of civilizational self-restraint.
 - **B_Non_Human_Architect_Charter.md** — Constitutional boundaries for non-human architects.
 - **C_Founding_Committee.md** — Foundational constitutional institutions.
 - **D_Access_Policy_Root.md** — Constitutional transparency and access principles.
@@ -262,4 +318,3 @@ across civilization.
 ---
 
 **End of Constitutional Appendices**
-
