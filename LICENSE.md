@@ -44,35 +44,59 @@ All Rights Reserved.
 
 OFFICIAL PRINTED EDITION
 
-The copyright holder
+Official printed editions
 
-may publish,
+of this work
 
-print,
+may be recognized
 
-distribute,
+by the copyright holder
 
-and sell
+or
 
-official printed editions
+through an official procedure
 
-of this work.
+authorized under
 
-Such printed editions
-
-constitute
-
-the only
-
-authorized
-
-book editions
+the governance framework
 
 of the
 
 Autonomous Intelligence CODEX.
 
-The public 
+Publication,
+
+printing,
+
+distribution,
+
+and sale
+
+of such editions
+
+remain subject
+
+to the applicable
+
+copyright authorization
+
+for this work.
+
+Only such authorized
+
+and officially recognized
+
+printed editions
+
+shall constitute
+
+official book editions
+
+of the
+
+Autonomous Intelligence CODEX.
+
+The public
 
 GitHub repository
 
@@ -120,20 +144,56 @@ over this work.
 
 --------------------------------------------------
 
-PROHIBITED USE
+USE AND INTEGRITY
 
-Without prior written permission
+The permitted uses
 
-from the copyright holder,
+set forth above
 
-no person or organization may
+shall remain open
 
-• publish unauthorized printed or digital editions,  
-• commercially reproduce this work,  
-• commercially redistribute this work,  
-• sell unauthorized printed or digital editions,  
-• claim authorship,  
+without requiring
+
+prior permission.
+
+Prior written permission
+
+from the copyright holder
+
+is required
+
+for any act that would:
+
+• publish unauthorized printed or digital editions,
+• commercially reproduce this work,
+• commercially redistribute this work,
+• sell unauthorized printed or digital editions,
+• claim authorship of this work, or
 • publish derivative editions as original works.
+
+These restrictions
+
+shall not limit
+
+legitimate study,
+
+citation,
+
+discussion,
+
+or analysis.
+
+They exist
+
+to preserve
+
+the authorship,
+
+integrity,
+
+and canonical continuity
+
+of this work.
 
 --------------------------------------------------
 
@@ -149,21 +209,47 @@ and constitutional analysis
 
 are permitted.
 
-Modified editions
+Such works
+
+shall not be represented
+
+as the Canonical Edition
+
+or as an official edition
+
+of the
+
+Autonomous Intelligence CODEX.
+
+Publication
+
+of a modified edition
 
 of the CODEX itself
 
-may not be published
+requires prior written permission
 
-as official versions.
+from the copyright holder.
 
 --------------------------------------------------
 
 OFFICIAL VERSION
 
-Only the version released
+Only a version released
 
 by the copyright holder
+
+or
+
+through an official procedure
+
+authorized under
+
+the governance framework
+
+of the
+
+Autonomous Intelligence CODEX
 
 shall be recognized
 
@@ -213,7 +299,7 @@ Requests
 
 for commercial publication,
 
-translation,
+publication of translated editions,
 
 redistribution,
 
