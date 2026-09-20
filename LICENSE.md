@@ -321,4 +321,6 @@ another official contact
 
 designated
 
-by the copyright holder.
+for copyright matters
+
+concerning this work.
