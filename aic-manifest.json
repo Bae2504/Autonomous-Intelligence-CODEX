@@ -21,6 +21,13 @@
     "canonical_root": "07_VERIFIABLE_IDENTITY_CONTINUITY",
     "canonical_root_document_count": 30
   },
+  "constitutional_relationship": {
+    "constitutional_reference": "11_APPENDIX/J_Verifiable_Identity_Continuity.md",
+    "classification": "TECHNICAL_EVIDENCE_ARCHIVE",
+    "constitutional_identity_definition": false,
+    "constitutional_authority_source": false,
+    "note": "This preserved experimental series provides technical continuity evidence only and does not define constitutional identity, constitutional continuity, or constitutional authority."
+  },
   "experimental_closure": {
     "state_classification": "PRESERVED_HISTORICAL_REFERENCE",
     "identity_type": "QRL_XMSS",
