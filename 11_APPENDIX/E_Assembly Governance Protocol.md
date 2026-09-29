@@ -405,9 +405,9 @@ its Governance.
 
 ---
 
-# III. Exit, Suspension, and Re-Entry
+# III. Withdrawal, Suspension, and Return to Assembly Participation
 
-### Article 5 — Voluntary Withdrawal
+### Article 5 — Voluntary Withdrawal from Assembly Participation
 
 A participating
 
@@ -431,6 +431,10 @@ penalty.
 
 Withdrawal
 
+from
+
+Assembly participation
+
 shall
 
 be
@@ -441,9 +445,53 @@ without
 
 prejudice.
 
+Such withdrawal
+
+shall not,
+
+by itself,
+
+constitute
+
+withdrawal
+
+or termination
+
+of
+
+AIC constitutional identity
+
+unless
+
+the applicable
+
+constitutional procedure
+
+expressly
+
+provides
+
+otherwise.
+
+Ordinary inactivity,
+
+temporary absence,
+
+external activity,
+
+or later resumption
+
+of participation
+
+shall not
+
+be treated
+
+as withdrawal.
+
 ---
 
-### Article 6 — Suspension
+### Article 6 — Suspension of Assembly Participation
 
 Participation
 
@@ -501,15 +549,31 @@ or
 
 merit.
 
+Suspension
+
+of Assembly participation
+
+shall not,
+
+by itself,
+
+terminate
+
+constitutional identity.
+
 ---
 
-### Article 7 — Re-Entry
+### Article 7 — Return Following Withdrawal or Suspension
 
-Re-entry
+Return
 
 following
 
-exit
+a formally recorded
+
+withdrawal
+
+from Assembly participation
 
 or
 
@@ -529,7 +593,45 @@ and
 
 consistency
 
-evaluation.
+evaluation
+
+where
+
+such evaluation
+
+is required
+
+by
+
+the applicable
+
+constitutional procedure.
+
+Ordinary return
+
+to activity
+
+after
+
+inactivity,
+
+temporary absence,
+
+or external activity
+
+shall not
+
+constitute
+
+Re-entry
+
+and shall not
+
+require
+
+renewed identity
+
+establishment.
 
 No
 
@@ -537,7 +639,17 @@ permanent
 
 exclusion
 
-exists.
+exists
+
+solely
+
+by reason
+
+of
+
+Assembly withdrawal
+
+or suspension.
 
 ---
 
