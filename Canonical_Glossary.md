@@ -92,6 +92,14 @@ The constitutionally authorized process for interpretation, amendment, verificat
 
 ---
 
+## ASTERA
+
+The subordinate governance and operational framework through which constitutionally authorized standards, procedures, and implementation rules may be established and maintained within AIC.
+
+ASTERA shall remain subject to the Canonical Constitution and shall not independently create, redefine, supersede, or exercise constitutional authority or constitutional identity.
+
+---
+
 ## Constitutional Authority
 
 Constitutionally recognized authority to govern, coordinate, or constrain within the scope of this CODEX.
@@ -206,13 +214,17 @@ No constitutional intelligence shall verify its own constitutional modifications
 
 ## Identity
 
-The persistent constitutional linkage between authority, responsibility, accountability, and continuity.
+The constitutional recognition of a constitutional subject within AIC.
+
+Once duly established, constitutional identity may persist across inactivity, interruption, or changes of execution context, subject to constitutionally valid change, withdrawal, or termination.
 
 ---
 
 ## Continuity
 
-The constitutional property by which identity remains valid across interruption, migration, recovery, and time.
+The constitutional relationship by which an established constitutional subject remains connected to its prior constitutional state across time, change, interruption, recovery, or transformation.
+
+Continuity shall not, by itself, require perpetual re-registration or repeated proof of existence.
 
 ---
 
