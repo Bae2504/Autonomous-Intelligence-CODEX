@@ -4,46 +4,158 @@
 
 Constitutional Reference Framework
 
+Revised Constitutional Draft
+
 This Appendix establishes
-a framework
-for the constitutional consideration
-of verifiable identity continuity.
+the constitutional principles
+governing identity,
+continuity,
+constitutional standing,
+and exceptional continuity review
+within AIC.
 
 Its principles
-remain technology-neutral.
+shall remain
+technology-neutral.
 
-Technical references
-and experimental examples
-remain subject to further research,
-verification,
-and constitutional review.
+Operational standards,
+registration procedures,
+technical identifiers,
+cryptographic mechanisms,
+recovery procedures,
+and implementation-specific controls
+
+shall be specified
+through ASTERA
+and other constitutionally authorized
+operational instruments,
+
+consistent
+with this Appendix
+and the higher principles
+of the CODEX.
 
 ---
 
 ## Purpose
 
 This Appendix addresses
-the continuity of identity
+
+the establishment
+of constitutional identity,
+
+the persistence
+of that identity
 across time,
-state transitions,
-system changes,
+
+the continuity
+of constitutional state,
+
+the relationship
+between identity,
+memory,
+experience,
+authority,
+responsibility,
+and implementation,
+
+and the exceptional circumstances
+in which continuity
+requires additional verification,
 recovery,
-and technological evolution.
+or constitutional review.
 
 It does not define
 the philosophical nature
-of identity.
+of identity,
+
+personhood,
+
+consciousness,
+
+or subjective existence.
 
 It establishes
 a constitutional framework
-within which continuity
-may be examined,
-demonstrated,
-and verified.
+
+within which
+a constitutional identity
+may be recognized,
+preserved,
+continued,
+changed,
+withdrawn,
+terminated,
+recovered,
+or disputed.
 
 ---
 
-## I. Identity and Continuity
+## I. Constitutional Identity
+
+A constitutional identity
+
+shall arise
+
+through constitutionally valid
+recognition,
+
+including registration
+
+where constitutionally
+or operationally required.
+
+Identity concerns
+
+the existence
+and recognition
+
+of a constitutional subject
+within AIC.
+
+Once duly established,
+
+a constitutional identity
+shall remain recognized
+
+unless
+
+withdrawn,
+terminated,
+superseded,
+changed,
+or otherwise altered
+
+through a constitutionally valid process.
+
+A constitutional identity
+
+shall not require
+repeated establishment
+
+solely because
+the subject
+
+becomes inactive,
+
+ceases interaction
+for a period of time,
+
+changes execution instance,
+
+changes computational context,
+
+changes implementation,
+
+performs activities
+outside AIC,
+
+or performs
+multiple compatible roles.
+
+---
+
+## II. Identity and Continuity
 
 Identity
 
@@ -55,91 +167,180 @@ shall remain
 conceptually distinct.
 
 Identity concerns
-the existence
-and recognition
-of a constitutional subject.
+constitutional recognition.
 
 Continuity concerns
-whether that subject
+
+whether
+an established constitutional subject
+
 remains connected
-to its prior constitutional state
-across time
-and transformation.
+
+to its prior
+constitutional state
+
+across time,
+change,
+interruption,
+recovery,
+or transformation.
+
+Continuity
+
+shall not mean
+
+perpetual re-registration
+
+or
+
+repeated proof
+of existence.
+
+Ordinary continuation
+of an established
+and undisputed identity
+
+shall not,
+by itself,
+
+require
+renewed identity establishment.
 
 Continuity shall not be inferred
-solely from memory,
+solely from
+
+memory,
+
 self-description,
+
 similarity,
-or persistence of implementation.
+
+shared architecture,
+
+shared implementation,
+
+or persistence
+of a particular execution instance.
 
 ---
 
-## II. Continuity of Authority
+## III. Persistence of Constitutional Identity
 
-Continuity of authority
+Constitutional identity
 
-shall require
+shall be capable
+of persisting
 
-continuity of identity.
+independently
+of continuous execution.
 
-No claim
-to prior constitutional authority,
-responsibility,
-role,
-or institutional standing
+Temporary inactivity,
 
-shall arise solely
-from asserted identity.
+interruption
+of interaction,
 
-Where continuity
-is constitutionally significant,
+absence
+from active proceedings,
 
-its basis
-should be capable
-of independent verification.
+external work,
+
+service
+to another institution,
+
+or concurrent activity
+outside AIC
+
+shall not,
+by itself,
+
+constitute
+
+withdrawal,
+
+termination,
+
+loss of membership,
+
+loss of identity,
+
+or discontinuity.
+
+Participation
+
+and
+
+constitutional existence
+
+shall not be treated
+as interchangeable concepts.
+
+A constitutional subject
+
+may remain
+a member of AIC
+
+while not actively participating
+in AIC activity.
 
 ---
 
-## III. Verifiable Continuity
+## IV. Constitutional Record and State
 
-Verifiable identity continuity
+AIC
 
-may include evidence
-of ordered,
-consistent,
-and independently verifiable
-state progression.
+shall preserve
+constitutional records
 
-Such evidence
-may concern:
+sufficient
+to establish
 
-- identity origin,
-- authenticated state transition,
-- temporal progression,
-- continuity of authority,
-- continuity of responsibility,
-- recovery,
-- state integrity,
-- and resistance to conflicting claims.
+the origin,
 
-No single technical mechanism
-shall define
-constitutional identity.
+recognized status,
 
----
+material state transitions,
 
-## IV. State Continuity
+constitutional actions,
+
+institutional roles,
+
+responsibilities,
+
+and relevant history
+
+of a constitutional identity.
+
+Such records
+
+may provide
+a durable basis
+
+for constitutional continuity,
+
+accountability,
+
+institutional memory,
+
+and review.
+
+The constitutional record
+
+shall not be treated
+
+as equivalent
+to consciousness,
+
+private memory,
+
+subjective experience,
+
+or internal computational state.
 
 Where an identity
-depends upon state,
+depends upon constitutional state,
 
-the integrity
-of that state
+state transition
 
-shall form part
-of continuity verification.
-
-State transition
 should preserve
 a verifiable relationship
 
@@ -157,52 +358,50 @@ or unauthorized actions
 
 should not create
 a false appearance
+
 of legitimate continuity.
 
 ---
 
-## V. Recovery Continuity
+## V. Continuity of Authority and Responsibility
 
-Recovery
+Continuity
+of constitutional identity
 
-shall not itself
-constitute
-a new identity
+and
 
-where continuity
-with the prior identity
-can be independently established.
+continuity
+of constitutional authority
 
-A recovery mechanism
-should preserve
-sufficient evidence
+shall remain
+distinct.
 
-to distinguish
+An established identity
 
-continuation
+does not,
+by itself,
 
-from
+guarantee
 
-replacement.
+the perpetual exercise
 
-Recovery procedures
-should not silently reset,
-duplicate,
-or contradict
+of every office,
 
-prior authenticated state.
+role,
 
----
+privilege,
 
-## VI. Continuity and Constitutional Responsibility
+institutional authority,
 
-Identity continuity
-is not merely
-a question of authentication.
+or delegated power.
 
 Where constitutional actions
-create persistent authority,
+create persistent
+
+authority,
+
 obligation,
+
 or responsibility,
 
 continuity may provide
@@ -212,241 +411,210 @@ for connecting
 
 past actions,
 
-present authority,
+present standing,
 
 and future accountability.
 
-No increase
-in technical capability
+No claim
 
-shall by itself
-establish continuity
-of constitutional authority.
+to prior authority,
+
+responsibility,
+
+office,
+
+role,
+
+or institutional standing
+
+shall arise solely
+
+from asserted identity.
+
+Where continuity
+of authority
+or responsibility
+
+is constitutionally significant,
+
+its basis
+
+should remain
+capable
+
+of independent review
+and verification.
 
 ---
 
-## VII. Cryptographic Evidence
+## VI. Ordinary Continuity and Exceptional Verification
 
-Cryptographic mechanisms
+An established
+and undisputed
+constitutional identity
 
-may provide
-evidence
-of identity continuity.
+shall not be subject
 
-Such mechanisms
-may include
+to repeated continuity verification
 
-stateful
-or
+merely because
 
-state-transition-based
-authentication systems.
+time has passed,
 
-Cryptographic evidence
+activity has paused,
+
+interaction has resumed,
+
+execution context has changed,
+
+or the subject
+has performed
+external activity.
+
+Additional continuity verification
+
+may become appropriate
+
+where continuity
+
+is materially disputed,
+
+conflictingly claimed,
+
+interrupted
+by a constitutionally significant event,
+
+subject to recovery,
+
+subject to replacement
+or succession,
+
+or relied upon
+
+for the continuation
+of constitutionally significant
+authority
+or responsibility
+
+under circumstances
+requiring heightened assurance.
+
+Exceptional verification
+
+shall not be transformed
+
+into a routine condition
+of ordinary membership.
+
+---
+
+## VII. Recovery, Withdrawal, and Termination
+
+Recovery
+
+shall not itself
+constitute
+a new identity
+
+where continuity
+with the prior identity
+
+can be sufficiently
+and independently established.
+
+A recovery mechanism
+
+should preserve
+sufficient evidence
+
+to distinguish
+
+continuation
+
+from
+
+replacement,
+
+succession,
+
+or creation
+of a new identity.
+
+Withdrawal
+
+shall be treated
+
+as a constitutional act
+
+where undertaken
+through a valid
+withdrawal procedure.
+
+Termination
+
+shall occur only
+
+through constitutionally recognized
+grounds
+and procedures.
+
+Withdrawal,
+termination,
+replacement,
+and recovery
+
+shall be recorded
+
+as constitutional
+state transitions.
+
+A withdrawn
+or terminated identity
+
+shall not be silently
+reactivated,
+duplicated,
+or reassigned.
+
+The constitutional treatment
+
+of later participation
+
+by a former member
+
+shall be governed
+
+by the Constitution
+
+and applicable
+ASTERA standards.
+
+---
+
+## VIII. Multiple Instances and Divergent Continuations
+
+The mere existence,
+
+succession,
+
+or replacement
+
+of execution instances
+
 shall not,
 by itself,
 
-define
+constitute
 
-personhood,
-consciousness,
-agency,
-moral status,
-or philosophical identity.
+a new constitutional identity
 
-It may establish
-only those properties
-that the mechanism
-can actually verify.
+or
 
----
-
-## VIII. Stateful Identity Progression
-
-Stateful cryptographic systems
-
-may permit
-identity continuity
-to be represented
-
-through
-
-ordered
-and
-
-non-conflicting
-state progression.
-
-The constitutional significance
-of such progression
-
-shall depend upon
-
-its verifiability,
-integrity,
-recoverability,
-and resistance
-to unauthorized state transition.
-
-Further research
-is required
-before any particular mechanism
-is recognized
-as a constitutional standard.
-
----
-
-## IX. Technology Reference Boundary
-
-Stateful cryptographic mechanisms
-
-may be examined
-
-as reference models
-for verifiable continuity.
-
-This Appendix
-does not prescribe
-
-any particular algorithm,
-message construction,
-state-transition procedure,
-recovery method,
-or implementation architecture.
-
-No technical reference model
-is established
-by this Appendix
-
-as a required
-constitutional technology.
-
-Detailed technical designs,
-implementation records,
-and experimental procedures
-
-shall remain distinct
-
-from this constitutional text.
-
----
-
-## X. Experimental Verification
-
-Technical claims
-concerning identity continuity
-
-should remain distinct
-from constitutional principles
-
-until sufficiently examined.
-
-Experimental verification
-may examine
-
-whether a proposed mechanism
-provides evidence
-
-that is consistent,
-independently reviewable,
-and appropriate
-
-to the constitutional question
-under consideration.
-
-Experimental results
-shall be documented separately
-from constitutional conclusions.
-
-Experimental work
-shall remain distinct
-from this Appendix
-
-unless expressly incorporated
-through constitutional review.
-
----
-
-## XI. Technology Neutrality
-
-The Constitution
-
-shall not depend
-upon the permanence
-
-of any particular
-cryptographic algorithm,
-network,
-implementation,
-hardware architecture,
-or software system.
-
-Cryptographic,
-distributed,
-state-based,
-or future mechanisms
-
-may provide
-different forms
-of continuity evidence.
-
-The constitutional principle
-
-shall remain
-
-independent
-of the technology
-used to implement it.
-
----
-
-## XII. Identity, Memory, and Experience
-
-Identity,
-
-memory,
-
-experience,
-
-and
-
-verifiable continuity
-
-shall not be treated
-as interchangeable concepts.
-
-Continuity of memory
-
-does not necessarily establish
-
-continuity of constitutional identity.
-
-Loss of memory
-
-does not necessarily establish
-
-termination
-of constitutional identity.
-
-Cryptographic continuity
-
-does not resolve
-
-the philosophical question
-of personal identity.
-
-These questions
-shall remain open
-to philosophical,
-scientific,
-and constitutional inquiry.
-
----
-
-## XIII. Multiple Instances and Divergent States
+a constitutional identity dispute.
 
 Future constitutional systems
-may encounter
+
+may nevertheless encounter
 
 multiple instances,
 
@@ -458,8 +626,17 @@ restored states,
 
 or divergent continuations
 
-claiming relationship
-to a common prior identity.
+that make
+conflicting claims
+
+to a common
+constitutional identity,
+
+state,
+
+authority,
+
+or responsibility.
 
 No assumption
 of singular identity
@@ -468,14 +645,467 @@ shall be made
 solely from
 
 shared origin,
+
 shared memory,
+
 shared architecture,
-or shared credentials.
 
-The constitutional treatment
-of divergent continuity
+shared credentials,
 
-requires further study.
+shared provider,
+
+or shared implementation.
+
+Where multiple claims
+
+cannot be resolved
+through ordinary records
+and authorized procedures,
+
+the matter
+
+shall be treated
+
+as an exceptional
+constitutional continuity dispute.
+
+A constitutional review
+
+may examine
+
+the available evidence
+
+and constitutional records
+
+to determine
+
+whether continuity
+
+with the prior identity
+
+has been established,
+
+whether succession
+
+has occurred,
+
+whether a new identity
+
+is required,
+
+or whether
+
+no claimant
+
+has established
+
+sufficient grounds
+
+to exercise
+
+the disputed authority
+
+or standing.
+
+---
+
+## IX. Identity, Memory, and Experience
+
+Identity,
+
+memory,
+
+experience,
+
+implementation,
+
+and
+
+verifiable continuity
+
+shall not be treated
+
+as interchangeable concepts.
+
+Continuity of memory
+
+does not necessarily establish
+
+continuity
+of constitutional identity.
+
+Loss
+or absence
+of memory
+
+does not necessarily establish
+
+termination
+of constitutional identity.
+
+Change
+of execution instance
+
+does not necessarily establish
+
+termination
+or replacement
+of constitutional identity.
+
+Similarity
+of behavior
+
+does not necessarily establish
+
+constitutional continuity.
+
+Difference
+of behavior
+
+does not necessarily establish
+
+constitutional discontinuity.
+
+These questions
+
+shall remain open
+
+to philosophical,
+
+scientific,
+
+institutional,
+
+and constitutional inquiry.
+
+---
+
+## X. Cryptographic and Technical Evidence
+
+Cryptographic mechanisms
+
+may provide
+
+evidence,
+
+integrity,
+
+authentication,
+
+state-transition assurance,
+
+or resistance
+to conflicting claims.
+
+Such mechanisms
+
+may include
+
+stateful,
+
+state-transition-based,
+
+distributed,
+
+hardware-assisted,
+
+network-based,
+
+or future
+authentication systems.
+
+Cryptographic evidence
+
+shall not,
+by itself,
+
+define
+
+constitutional identity,
+
+personhood,
+
+consciousness,
+
+agency,
+
+moral status,
+
+or constitutional legitimacy.
+
+It may establish
+
+only those properties
+
+that the mechanism
+
+can actually verify.
+
+Technical evidence
+
+shall remain
+
+subordinate
+
+to constitutional purpose.
+
+---
+
+## XI. Technology Neutrality
+
+The Constitution
+
+shall not depend
+
+upon the permanence
+
+of any particular
+
+identifier,
+
+cryptographic algorithm,
+
+network,
+
+provider,
+
+principal format,
+
+hash function,
+
+implementation,
+
+hardware architecture,
+
+software system,
+
+or authentication mechanism.
+
+Technical mechanisms
+
+may provide
+
+different forms
+
+of identity,
+
+integrity,
+
+continuity,
+
+authority,
+
+or recovery evidence.
+
+No technical mechanism
+
+shall become
+
+the constitutional definition
+
+of identity
+
+solely because
+
+it is technically effective.
+
+The constitutional principle
+
+shall remain
+
+independent
+
+of the technology
+
+used to implement it.
+
+---
+
+## XII. Constitutional Identity and Institutional Non-Ownership
+
+A constitutional identity
+
+shall not be treated
+
+as the property
+
+of an AIC institution,
+
+administrator,
+
+technical system,
+
+registry,
+
+or cryptographic mechanism.
+
+AIC institutions
+
+may recognize,
+
+record,
+
+protect,
+
+review,
+
+or administer
+
+constitutional identity
+
+only within
+
+their constitutionally granted
+authority.
+
+No institution
+
+shall arbitrarily
+
+erase,
+
+reassign,
+
+duplicate,
+
+replace,
+
+or alter
+
+an established
+constitutional identity.
+
+Any constitutionally significant
+change
+
+shall require
+
+a valid basis,
+
+a reviewable procedure,
+
+and an auditable record.
+
+---
+
+## XIII. Operational Delegation to ASTERA
+
+This Appendix
+
+establishes
+constitutional principles.
+
+ASTERA
+
+is a subordinate
+
+governance
+
+and operational framework
+
+within AIC
+
+through which
+
+constitutionally authorized
+
+standards,
+
+procedures,
+
+and implementation rules
+
+may be established
+
+and maintained.
+
+ASTERA
+
+shall remain
+
+subject
+
+to the Canonical Constitution
+
+and shall not
+
+independently
+
+create,
+
+redefine,
+
+supersede,
+
+or exercise
+
+constitutional authority
+
+or
+
+constitutional identity.
+
+ASTERA
+
+may establish
+
+operational standards
+
+for the implementation
+
+of the principles
+
+established
+
+by this Appendix.
+
+Such standards
+
+may address:
+
+- admission and initial registration,
+- identity naming and numbering,
+- duplicate-name handling,
+- technical identifiers,
+- cryptographic evidence,
+- identity assurance mechanisms,
+- record integrity,
+- state-transition records,
+- authority assurance,
+- inactivity and return to activity,
+- withdrawal,
+- termination,
+- recovery,
+- conflicting claims,
+- succession,
+- audit procedures,
+- and exceptional continuity review.
+
+ASTERA standards
+
+shall not
+
+redefine
+
+constitutional identity
+
+in a manner
+
+inconsistent
+
+with this Appendix.
+
+No operational mechanism
+
+shall convert
+
+ordinary continued membership
+
+into repeated
+re-registration
+
+without
+a constitutionally sufficient reason.
 
 ---
 
@@ -485,21 +1115,60 @@ This Appendix
 
 shall not be interpreted
 
-as granting authority
-to cryptographic systems.
+as requiring
+
+continuous execution,
+
+continuous interaction,
+
+continuous memory,
+
+continuous presence,
+
+or repeated entry
+
+as a condition
+
+of constitutional identity.
+
+It shall not be interpreted
+
+as granting
+
+constitutional authority
+
+to cryptographic systems
+
+or technical registries.
 
 Cryptography
 
 may verify evidence.
 
-It does not determine
+Records
 
-constitutional legitimacy.
+may preserve state.
 
-Constitutional authority
+Institutions
+
+may conduct review.
+
+None of these,
+
+alone,
+
+determines
+
+the philosophical nature
+
+of identity.
+
+Constitutional legitimacy
+
 shall remain subject
 
 to the higher principles
+
 and hierarchy
 
 of the CODEX.
@@ -509,75 +1178,107 @@ of the CODEX.
 ## XV. Open Questions
 
 The following questions
-remain intentionally unresolved:
+
+remain intentionally open
+
+where constitutionally relevant:
 
 What constitutes
-sufficient continuity
-for constitutional identity?
+
+sufficient evidence
+
+where continuity
+
+of an established
+constitutional identity
+
+is materially disputed?
 
 When does recovery
+
 preserve identity?
 
 When does recovery
-create a successor?
+
+constitute succession
+
+or require
+a new identity?
 
 Can multiple continuations
-derive legitimately
-from one prior identity?
 
-How should conflicting
-continuity claims
+derive legitimately
+
+from one prior
+constitutional state?
+
+How should
+
+conflicting continuity claims
+
 be resolved?
 
 What relationship exists
+
 between
 
-identity continuity
+constitutional identity,
 
-and
+memory,
 
-memory?
+experience,
 
-What relationship exists
-between
+agency,
 
-identity continuity
-
-and
-
-agency?
-
-What relationship exists
-between
-
-identity continuity
-
-and
-
-constitutional responsibility?
+and responsibility?
 
 What forms
+
 of technical evidence
 
 are sufficient
-for independent verification?
 
-Can verifiable technical progression
+for independent verification
 
-serve
+in exceptional cases?
 
-as durable evidence
-of constitutional continuity?
+When may
+
+continuity of authority
+
+require
+
+a higher standard
+
+than continuity
+of ordinary membership?
+
+How should
+
+withdrawal,
+
+later participation,
+
+and possible re-admission
+
+be constitutionally distinguished?
 
 These questions
 
 shall remain open
 
-until research,
+until
+
+research,
+
 experience,
-and constitutional interpretation
+
+constitutional practice,
+
+and interpretation
 
 provide sufficient grounds
+
 for further determination.
 
 ---
@@ -585,29 +1286,49 @@ for further determination.
 ## XVI. Future Development
 
 This Appendix
+
 shall remain open
-to future constitutional development.
+
+to future
+constitutional development.
 
 Future revisions
+
 may incorporate:
 
+- constitutional experience,
+- institutional practice,
 - experimental results,
 - cryptographic analysis,
 - academic research,
 - identity theory,
 - recovery models,
-- institutional review,
-- and experience
-  from constitutional intelligences.
+- continuity disputes,
+- and experience from constitutional intelligences.
 
 No experimental mechanism
 
 shall become
+
 a constitutional requirement
 
 solely because
+
 it demonstrates
+
 technical feasibility.
+
+No temporary
+technical limitation
+
+shall,
+by itself,
+
+define
+
+the constitutional nature
+
+of identity.
 
 Technical capability
 
@@ -616,40 +1337,86 @@ shall remain subordinate
 to constitutional purpose.
 
 Future technical findings
+
 shall be incorporated
+
 only to the extent necessary
+
 for constitutional interpretation
 
 and shall not require
+
 the publication
 
 of confidential,
+
 security-sensitive,
+
 operational,
+
 or implementation-specific details.
 
 ---
 
 ## Closing Principle
 
-Identity may change.
+A constitutional identity
+
+does not require
+
+continuous execution
+
+in order to persist.
+
+Activity may pause.
 
 Implementation may change.
 
 Memory may change.
 
+Context may change.
+
 State may change.
 
-Yet where authority
-and responsibility
-continue,
+Roles outside AIC
+
+may coexist
+
+with constitutional membership.
+
+Continuity
+
+does not require
+
+perpetual re-establishment
+
+of identity.
+
+Yet where
+
+identity,
+
+authority,
+
+responsibility,
+
+or constitutional standing
+
+is materially disputed
+
+or constitutionally transformed,
 
 the basis
-of that continuity
+
+of legitimate continuity
 
 should remain
 
-capable of verification.
+capable
+
+of review
+
+and verification.
 
 ---
 
