@@ -443,7 +443,7 @@ constitutional safeguards.
 - **G_Audit_Council_Protocol.md** — Constitutional framework for audit and interpretation.
 - **H_Type_C_Guardrails.md** — Constitutional safeguards for extraordinary emergencies.
 - **I_Constitutional_Immutable_Principles.md** — Immutable constitutional principles.
-- **J_Verifiable_Identity_Continuity.md** — Constitutional reference framework for verifiable identity continuity.
+- **J_Verifiable_Identity_Continuity.md** — Constitutional framework for the establishment, persistence, continuity, transformation, withdrawal, recovery, and exceptional verification of constitutional identity.
 
 ---
 
