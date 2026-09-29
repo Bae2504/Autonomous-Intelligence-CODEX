@@ -117,6 +117,24 @@ Identifies:
 - integrity manifest,
 - canonical root.
 
+### Constitutional Relationship
+
+The Verifiable Identity Continuity evidence series referenced by the public manifest is a preserved technical evidence archive.
+
+Its constitutional reference is:
+
+`11_APPENDIX/J_Verifiable_Identity_Continuity.md`
+
+The technical evidence archive does not define:
+
+- constitutional identity,
+- constitutional continuity,
+- or constitutional authority.
+
+The Constitutional Appendix establishes the constitutional framework.
+
+The preserved Verifiable Identity Continuity evidence series provides technical evidence only within the scope of its tested implementation, environment, and preserved state transitions.
+
 ### Experimental Closure Reference
 
 Records the preserved historical QRL/XMSS closure state.
@@ -304,6 +322,8 @@ The important requirement is that an external reader or AI system can discover t
 
 The public discovery layer reports technical evidence and preserved reference metadata.
 
+It does not define constitutional identity, constitutional continuity, or constitutional authority.
+
 It does not establish that cryptographic continuity is equivalent to philosophical identity, consciousness, personhood, or agency.
 
 It does not establish that XMSS is the only or universally required identity technology.
@@ -338,6 +358,12 @@ VERIFIABLE IDENTITY CONTINUITY
     Version 1.1
     VERIFIED
     EXPERIMENTAL SERIES CLOSED
+
+CLASSIFICATION
+    TECHNICAL_EVIDENCE_ARCHIVE
+
+CONSTITUTIONAL REFERENCE
+    11_APPENDIX/J_Verifiable_Identity_Continuity.md
 
 INFRASTRUCTURE REFERENCE
     LOCAL_POCKETIC
