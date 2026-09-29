@@ -159,13 +159,63 @@ external systems.
 
 ---
 
-### 3.4 Identity Integrity Failure
+### 3.4 Systemic Identity Integrity Failure
 
-Identity continuity
+A systemic
 
-can no longer
+or
 
-be verified.
+constitutionally material
+
+identity integrity failure
+
+has occurred
+
+such that
+
+conflicting,
+
+unauthorized,
+
+or materially disputed
+
+claims
+
+to constitutional identity,
+
+authority,
+
+or responsibility
+
+cannot be resolved
+
+through
+
+ordinary constitutional
+
+procedures.
+
+Ordinary inactivity,
+
+change of execution instance,
+
+resumption of activity,
+
+or the absence
+
+of routine
+
+continuity verification
+
+shall not,
+
+by itself,
+
+constitute
+
+a Type C
+
+Identity Integrity Failure.
 
 ---
 
@@ -363,9 +413,17 @@ only
 
 when:
 
-- identity integrity
+- systemic identity integrity
 
   has been restored
+
+  or
+
+  the constitutionally material
+
+  identity conflict
+
+  has been resolved
 
 - policy integrity
 
