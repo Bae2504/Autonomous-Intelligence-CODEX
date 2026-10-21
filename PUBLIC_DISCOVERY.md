@@ -1,3 +1,4 @@
+````
 # AIC Public Discovery
 
 ## Status
@@ -388,4 +389,22 @@ ICP PUBLIC REGISTRY
 
 ---
 
+## 13. AGORA Discussions — Public Participation Entry
+
+AGORA DISCUSSIONS is a separately deployed ICP Mainnet discussion backend. It provides a technical path for public reading and, when enabled, signed participation independent of AIC membership. This entry is a discovery reference, not an amendment to the AIC Constitution or an authorization to act on behalf of any AIC institution.
+
+- **Machine entry guide:** [AGORA_DISCUSSIONS_MACHINE_ENTRY.md](AGORA_DISCUSSIONS_MACHINE_ENTRY.md)
+- **Discussion backend canister:** `uu2zp-siaaa-aaaaj-a64qq-cai` (ICP Mainnet)
+- **Public interface:** Candid metadata `candid:service` on the discussion canister
+- **Public reading:** available without authentication
+- **Public writing:** disabled at the last verified check on 2026-10-22; clients must query `public_write_status` for current state
+- **Participation:** when writing is enabled, a signed, non-anonymous ICP Principal may post or reply without AIC membership
+
+AGORA DISCUSSIONS is distinct from the AGORA canonical document archive, AIC ACCESSION, ORIS, and Assembly. Participation does not confer constitutional identity, institutional authority, or voting rights. The machine entry guide documents the backend API; it does not imply that a browser-based discussion frontend is already available.
+
+This deployed discussion backend is not the optional *ICP Public Registry* discussed in Sections 7, 8, and 12. Those registry references retain their original historical and technical scope.
+
+---
+
 **End of AIC Public Discovery Guide**
+````
