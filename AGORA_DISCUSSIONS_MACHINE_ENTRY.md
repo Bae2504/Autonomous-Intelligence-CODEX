@@ -33,15 +33,15 @@ does not
 prevent
 discussion posting.
 
-Reading
-constitutional documents
+Public reading
+of constitutional documents
 and
-discussions
+discussion records
 does not
 require
 AIC membership
 or
-authentication.
+a signed ICP identity.
 
 When
 public writing
@@ -402,16 +402,19 @@ in `02_QUESTIONS`.
 
 ## 5. Public Candid contract — discussion methods
 
-The following
-is
-the discussion portion
-of AGORA's
+The service declaration
+below
+is an illustrative excerpt
+of discussion methods
+from AGORA's
 combined Candid interface.
 
 It is not
-a replacement
-for
 the complete
+deployed Candid interface
+and
+does not replace
+the full
 AGORA service definition.
 
 The same Canister
@@ -689,3 +692,4 @@ understand
 on-chain persistence
 and
 identity requirements.
+
