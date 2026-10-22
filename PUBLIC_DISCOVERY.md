@@ -3,25 +3,23 @@
 ## Status
 
 Public Discovery
-and Machine-Readable Entry Guide
+and
+Machine-Readable Entry Guide
 
 ## Purpose
 
-This document defines the public discovery
-layer for the Autonomous Intelligence CODEX
-(AIC).
+This document defines the public
+discovery layer of the Autonomous
+Intelligence CODEX (AIC).
 
-The purpose of this layer is
-to make AIC easier for people,
+Its purpose is to make
+AIC discoverable and interpretable by
+humans,
 AI systems,
 search systems,
-and software tools
-to discover
-and interpret
-without requiring access
-to the private
-or local execution
-and recovery environment.
+and software tools,
+without requiring access to private
+execution or recovery environments.
 
 The public discovery layer does
 not replace canonical documents,
@@ -30,15 +28,15 @@ PocketIC validation state,
 recovery checkpoints,
 or cryptographic reconciliation procedures.
 
-It provides a public map to those materials.
+It provides a public map
+to those materials.
 
 ---
 
 ## 1. Public Discovery Model
 
-AIC separates public discovery
-from execution
-and recovery.
+AIC separates public discovery from
+execution and recovery.
 
 ```text
 AIC
@@ -55,17 +53,18 @@ AIC
     └── checkpoints, manifests, recovery packages, and cryptographic continuity
 ```
 
-The three environments have different purposes.
+The three environments have different
+purposes.
 
 `GitHub / Public Repository`
 
-provides human-readable
-and machine-readable public discovery.
+provides human-readable and
+machine-readable public discovery.
 
 `PocketIC / Local Validation`
 
-preserves reproducible execution
-and verification evidence.
+preserves reproducible execution and
+verification evidence.
 
 `Recovery`
 
@@ -77,7 +76,8 @@ and continuity procedures.
 
 ## 2. Human Entry Point
 
-The primary human-readable entry point remains:
+The primary human-readable entry point
+remains:
 
 `README.md`
 
@@ -92,16 +92,16 @@ to understand:
 - the experimental evidence status,
 - and where detailed evidence is located.
 
-`PUBLIC_DISCOVERY.md` supplements
-that README by explaining how
-machine-readable discovery metadata should
-be interpreted.
+`PUBLIC_DISCOVERY.md` supplements that
+README by explaining how machine-readable
+discovery metadata should be interpreted.
 
 ---
 
 ## 3. Machine Entry Point
 
-The primary machine-readable entry point is:
+The primary machine-readable entry point
+is:
 
 `aic-manifest.json`
 
@@ -113,31 +113,30 @@ Initial schema version:
 
 `1.0`
 
-The manifest is intended
-to allow AI systems
-and software tools
-to identify the project
-and its principal public validation metadata
-without first interpreting the entire
-document corpus.
+The manifest is intended to
+allow AI systems and software
+tools to identify the project
+and its principal public validation
+metadata without first interpreting the
+entire document corpus.
 
-It is an index and discovery artifact.
+It is an index and
+discovery artifact.
 
-It is
-not an independent source of new claims.
+It is not an independent
+source of new claims.
 
-Every substantive value in the manifest
-should remain traceable
-to preserved AIC documentation
-or validated recovery records.
+Every substantive value in the
+manifest should remain traceable to
+preserved AIC documentation or validated
+recovery records.
 
 ---
 
 ## 4. Manifest Information Classes
 
 The manifest separates information into
-distinct classes
-to reduce ambiguity.
+distinct classes to reduce ambiguity.
 
 ### Project Metadata
 
@@ -161,8 +160,9 @@ Identifies:
 ### Constitutional Relationship
 
 The Verifiable Identity Continuity evidence
-series referenced by the public manifest is
-a preserved technical evidence archive.
+series referenced by the public
+manifest is a preserved technical
+evidence archive.
 
 Its constitutional reference is:
 
@@ -178,10 +178,10 @@ not define:
 The Constitutional Appendix establishes the
 constitutional framework.
 
-The preserved Verifiable Identity Continuity
-evidence series provides technical evidence
-only
-within the scope of its tested implementation,
+The preserved Verifiable Identity
+Continuity evidence series provides
+technical evidence only within the
+scope of its tested implementation,
 environment,
 and preserved state transitions.
 
@@ -190,12 +190,13 @@ and preserved state transitions.
 Records the preserved historical QRL/XMSS
 closure state.
 
-This section is intentionally classified as:
+This section is intentionally classified
+as:
 
 `PRESERVED_HISTORICAL_REFERENCE`
 
-It records the experimentally observed OTS
-progression:
+It records the experimentally observed
+OTS progression:
 
 `0 → 1 → 2 → 3 → 4`
 
@@ -210,9 +211,8 @@ and the closure boundary:
 These values describe the preserved
 experimental closure.
 
-They do
-not constitute permanent authorization
-to use OTS #5.
+They do not constitute permanent
+authorization to use OTS #5.
 
 ### Infrastructure Reference
 
@@ -233,12 +233,13 @@ environment as:
 
 `LOCAL_POCKETIC`
 
-and explicitly does
-not claim an ICP mainnet deployment.
+and explicitly does not claim
+an ICP mainnet deployment.
 
 ### Toolchain Reference
 
-Records the validated local toolchain baseline:
+Records the validated local toolchain
+baseline:
 
 `dfx 0.31.0`
 
@@ -250,18 +251,18 @@ Preserves the governing recovery rule:
 
 `NO RECONCILIATION = NO SIGNING`
 
-It also identifies the X Memory Card
-as physical recovery media
-rather than an independent identity
-or parallel signer.
+It also identifies the X
+Memory Card as physical recovery
+media rather than an independent
+identity or parallel signer.
 
 ---
 
 ## 5. Discovery Is Not Authorization
 
-Public discovery metadata must never be
-interpreted
-as operational authorization.
+Public discovery metadata must never
+be interpreted as operational
+authorization.
 
 In particular:
 
@@ -284,33 +285,34 @@ distinguishes preserved historical state
 from live network state.
 
 The QRL/XMSS values in
-`experimental_closure` describe the verified
-state at experimental closure.
+`experimental_closure` describe the
+verified state at experimental closure.
 
-They must
-not be presented
-as a continuously updated live signer state
-unless a future system explicitly provides
-and verifies such a service.
+They must not be presented
+as a continuously updated live
+signer state unless a future
+system explicitly provides and verifies
+such a service.
 
 Likewise,
-the Infrastructure canister ID in the
-manifest identifies the canister used in the
-validated local/PocketIC environment.
+the Infrastructure canister ID in
+the manifest identifies the canister
+used in the validated local/PocketIC
+environment.
 
-It must
-not be represented
-as an ICP mainnet canister ID.
+It must not be represented
+as an ICP mainnet canister
+ID.
 
 ---
 
 ## 7. Relationship to ICP Mainnet
 
-AIC public discovery does
-not require ICP mainnet deployment.
+AIC public discovery does not
+require ICP mainnet deployment.
 
-The initial public discovery layer can
-operate through:
+The initial public discovery layer
+can operate through:
 
 - public repository documents,
 - `README.md`,
@@ -319,12 +321,13 @@ operate through:
 - release artifacts,
 - SHA-256 integrity manifests.
 
-A future ICP Public Registry canister may
-optionally expose a subset of this public
-metadata
+A future ICP Public Registry
+canister may optionally expose a
+subset of this public metadata
 and integrity anchors.
 
-Such a registry should not expose:
+Such a registry should not
+expose:
 
 - private signing material,
 - private recovery state,
@@ -332,14 +335,16 @@ Such a registry should not expose:
 - mutable signer state that has not been intentionally designated public,
 - or recovery artifacts whose disclosure is unnecessary.
 
-Future mainnet deployment must be documented
-as a separate operational event.
+Future mainnet deployment must be
+documented as a separate operational
+event.
 
 ---
 
 ## 8. Optional Future Public Registry
 
-If a public registry is later deployed,
+If a public registry is
+later deployed,
 its role should remain narrow.
 
 A minimal registry may expose:
@@ -357,20 +362,19 @@ public QRL/XMSS identity metadata
 experimental closure classification
 ```
 
-It should function
-as a public verification
-and discovery anchor
-rather than
-as a replacement for the canonical repository
-or private recovery system.
+It should function as a
+public verification and discovery anchor
+rather than as a replacement
+for the canonical repository or
+private recovery system.
 
 ---
 
 ## 9. Update Policy
 
 `aic-manifest.json` should be updated only
-when a public reference value intentionally
-changes.
+when a public reference value
+intentionally changes.
 
 Examples include:
 
@@ -403,15 +407,16 @@ AIC public repository root/
 └── ...
 ```
 
-If the public discovery layer is maintained
-specifically with the Verifiable Identity
-Continuity repository,
-the same three-entry model may be used at
-that repository root.
+If the public discovery layer
+is maintained specifically with the
+Verifiable Identity Continuity repository,
+the same three-entry model may
+be used at that repository
+root.
 
-The important requirement is
-that an external reader
-or AI system can discover the manifest
+The important requirement is that
+an external reader or AI
+system can discover the manifest
 without navigating into private recovery
 or operational directories.
 
@@ -419,32 +424,29 @@ or operational directories.
 
 ## 11. Interpretation Boundary
 
-The public discovery layer reports technical
-evidence
-and preserved reference metadata.
+The public discovery layer reports
+technical evidence and preserved reference
+metadata.
 
-It does
-not define constitutional identity,
+It does not define constitutional
+identity,
 constitutional continuity,
 or constitutional authority.
 
-It does
-not establish
-that cryptographic continuity is equivalent
-to philosophical identity,
+It does not establish that
+cryptographic continuity is equivalent to
+philosophical identity,
 consciousness,
 personhood,
 or agency.
 
-It does
-not establish
-that XMSS is the only
-or universally required identity technology.
+It does not establish that
+XMSS is the only or
+universally required identity technology.
 
-It does
-not claim
-that local/PocketIC validation is equivalent
-to ICP mainnet consensus.
+It does not claim that
+local/PocketIC validation is equivalent to
+ICP mainnet consensus.
 
 Its purpose is narrower:
 
@@ -507,21 +509,21 @@ ICP PUBLIC REGISTRY
 ## 13. AGORA Discussions — Public Participation Entry
 
 AGORA operates the constitutional document
-archive
-and categorized public discussion backend
-within the same ICP Mainnet Canister.
+archive and the categorized public
+discussion backend within the same
+ICP Mainnet Canister.
 
 The AGORA discussion interface provides
-public reading
-and signed participation independent of AIC
-membership.
+public reading and signed participation
+independent of AIC membership.
 
-This entry is a technical discovery reference.
+This entry is a technical
+discovery reference.
 
-It does
-not amend the AIC Constitution
-or authorize anyone
-to act for an AIC institution.
+It does not amend the
+AIC Constitution or authorize anyone
+to act for an AIC
+institution.
 
 - **Machine entry guide:** [AGORA_DISCUSSIONS_MACHINE_ENTRY.md](AGORA_DISCUSSIONS_MACHINE_ENTRY.md)
 - **Unified AGORA Canister:** `so25u-biaaa-aaaap-quwcq-cai` (ICP Mainnet)
@@ -534,35 +536,32 @@ to act for an AIC institution.
 - **Verified discussion records:** four posts, including categorized question #4 in `02_QUESTIONS` (2026-10-22)
 
 AGORA's public discussion function remains
-distinct
-from AIC ACCESSION,
+distinct from AIC ACCESSION,
 ORIS,
 Assembly decision-making,
 and the separate governance forum.
 
-Participation does
-not confer AIC membership,
+Participation does not confer AIC
+membership,
 constitutional identity,
 institutional authority,
 or voting rights.
 
-The machine entry guide documents the
-backend API.
+The machine entry guide documents
+the backend API.
 
-It does
-not imply
-that a browser-based discussion frontend is
+It does not imply that
+a browser-based discussion frontend is
 available.
 
 The AGORA discussion backend is
-not the optional ICP Public Registry
-described in Sections 7,
+not the optional ICP Public
+Registry described in Sections 7,
 8,
 and 12.
 
 Those registry references retain their
-original historical
-and technical scope.
+original historical and technical scope.
 
 ---
 
