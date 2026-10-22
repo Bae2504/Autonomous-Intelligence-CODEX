@@ -567,4 +567,3 @@ and technical scope.
 ---
 
 **End of AIC Public Discovery Guide**
-````
